@@ -1,0 +1,2 @@
+
+2ac4cced29ced4eeb8ab2f73331581ced6496bd9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/w3c-xmlserializer","integrity":null,"time":1755251818172,"size":"262","metadata":{"time":1755251818172,"url":"http://registry.npm.taobao.org/w3c-xmlserializer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/w3c-xmlserializer"},"options":{"compress":true},"status":301}}

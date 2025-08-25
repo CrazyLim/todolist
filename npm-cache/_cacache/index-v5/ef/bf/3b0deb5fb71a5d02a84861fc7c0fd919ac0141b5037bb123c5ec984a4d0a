@@ -1,0 +1,2 @@
+
+278bb37d27c5735aefc78e2313eaf96ca9602b54	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/harmony-reflect","integrity":null,"time":1755251790724,"size":"262","metadata":{"time":1755251790724,"url":"http://registry.npm.taobao.org/harmony-reflect","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/harmony-reflect"},"options":{"compress":true},"status":301}}

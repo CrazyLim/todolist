@@ -1,0 +1,2 @@
+
+e85b95e8c81315f5767e3d6cc8e4a2431a708b3c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jest%2ftest-sequencer","integrity":null,"time":1755251816125,"size":"262","metadata":{"time":1755251816125,"url":"http://registry.npm.taobao.org/@jest%2ftest-sequencer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/@jest%2ftest-sequencer"},"options":{"compress":true},"status":301}}

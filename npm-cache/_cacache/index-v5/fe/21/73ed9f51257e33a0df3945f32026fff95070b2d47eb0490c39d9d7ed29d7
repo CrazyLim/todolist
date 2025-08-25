@@ -1,0 +1,2 @@
+
+2dd61255450979dad485059a9041ae285b7b0e1b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/browser-process-hrtime","integrity":null,"time":1755251819299,"size":"262","metadata":{"time":1755251819299,"url":"http://registry.npm.taobao.org/browser-process-hrtime","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:59 GMT","location":"https://registry.npmmirror.com/browser-process-hrtime"},"options":{"compress":true},"status":301}}

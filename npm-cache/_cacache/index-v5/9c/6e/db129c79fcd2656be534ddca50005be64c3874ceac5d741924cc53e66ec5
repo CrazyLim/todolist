@@ -1,0 +1,2 @@
+
+b688ffe69523f22cc7d80854e524aaa4bcb1de87	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sisteransi","integrity":null,"time":1755251792006,"size":"262","metadata":{"time":1755251792006,"url":"http://registry.npm.taobao.org/sisteransi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/sisteransi"},"options":{"compress":true},"status":301}}

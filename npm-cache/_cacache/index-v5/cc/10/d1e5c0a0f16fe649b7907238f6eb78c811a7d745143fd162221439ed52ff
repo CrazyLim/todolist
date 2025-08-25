@@ -1,0 +1,2 @@
+
+617816cf373edb35fa9470157278f911acaefbfc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-plugin-jest","integrity":null,"time":1755251790321,"size":"262","metadata":{"time":1755251790321,"url":"http://registry.npm.taobao.org/eslint-plugin-jest","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/eslint-plugin-jest"},"options":{"compress":true},"status":301}}

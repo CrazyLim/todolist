@@ -1,0 +1,2 @@
+
+d875aaf4ab5ca32001a990342563755c15ce2a68	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/stackframe","integrity":null,"time":1755251794845,"size":"262","metadata":{"time":1755251794844,"url":"http://registry.npm.taobao.org/stackframe","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:34 GMT","location":"https://registry.npmmirror.com/stackframe"},"options":{"compress":true},"status":301}}

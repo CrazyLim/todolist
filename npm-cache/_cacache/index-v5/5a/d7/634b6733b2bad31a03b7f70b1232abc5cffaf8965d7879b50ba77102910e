@@ -1,0 +1,2 @@
+
+db31fde6dcce7ab19808d66a6b04dedf9c720795	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/memfs","integrity":null,"time":1755251822114,"size":"262","metadata":{"time":1755251822114,"url":"http://registry.npm.taobao.org/memfs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/memfs"},"options":{"compress":true},"status":301}}

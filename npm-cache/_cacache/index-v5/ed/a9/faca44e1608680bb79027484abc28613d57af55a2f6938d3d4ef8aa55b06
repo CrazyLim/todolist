@@ -1,0 +1,2 @@
+
+7ad85303d057bcba3ddcfa9732532a4033f73f44	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unquote","integrity":null,"time":1755251798206,"size":"262","metadata":{"time":1755251798206,"url":"http://registry.npm.taobao.org/unquote","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/unquote"},"options":{"compress":true},"status":301}}

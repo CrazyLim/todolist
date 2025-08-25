@@ -1,0 +1,2 @@
+
+6b3657d739be792f0b7a007728e3562eef122cdf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regenerator-runtime","integrity":null,"time":1755251792051,"size":"262","metadata":{"time":1755251792051,"url":"http://registry.npm.taobao.org/regenerator-runtime","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/regenerator-runtime"},"options":{"compress":true},"status":301}}

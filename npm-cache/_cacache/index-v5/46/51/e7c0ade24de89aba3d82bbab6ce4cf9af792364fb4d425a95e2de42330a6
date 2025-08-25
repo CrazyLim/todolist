@@ -1,0 +1,2 @@
+
+1fe01ebed1f66fbac232d9dd47d4d4925adbb1a5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/get-symbol-description","integrity":null,"time":1755251811902,"size":"262","metadata":{"time":1755251811902,"url":"http://registry.npm.taobao.org/get-symbol-description","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/get-symbol-description"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1a3c68e2d6b0bb244d9700c52e59cbfceb226191	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regenerate","integrity":null,"time":1755251797145,"size":"262","metadata":{"time":1755251797145,"url":"http://registry.npm.taobao.org/regenerate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:37 GMT","location":"https://registry.npmmirror.com/regenerate"},"options":{"compress":true},"status":301}}

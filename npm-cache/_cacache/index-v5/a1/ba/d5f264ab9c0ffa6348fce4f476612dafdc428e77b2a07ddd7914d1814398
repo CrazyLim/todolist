@@ -1,0 +1,2 @@
+
+f28f809c6841bc338ad17cd4b6c1e4b4ad1ebb1b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jest%2ffake-timers","integrity":null,"time":1755251816379,"size":"262","metadata":{"time":1755251816379,"url":"http://registry.npm.taobao.org/@jest%2ffake-timers","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/@jest%2ffake-timers"},"options":{"compress":true},"status":301}}

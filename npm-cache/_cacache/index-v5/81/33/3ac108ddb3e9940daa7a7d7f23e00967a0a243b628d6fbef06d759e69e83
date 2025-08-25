@@ -1,0 +1,2 @@
+
+94c2f39bb6b42b137c643372ee6d87612572265a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-duplicate-keys","integrity":null,"time":1755251795215,"size":"262","metadata":{"time":1755251795215,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-duplicate-keys","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-duplicate-keys"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+95da2f964b6664f115ff7a93f779ea570797510e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/axe-core","integrity":null,"time":1755251806043,"size":"262","metadata":{"time":1755251806043,"url":"http://registry.npm.taobao.org/axe-core","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:46 GMT","location":"https://registry.npmmirror.com/axe-core"},"options":{"compress":true},"status":301}}

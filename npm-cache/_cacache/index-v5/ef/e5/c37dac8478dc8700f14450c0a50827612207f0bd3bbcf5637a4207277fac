@@ -1,0 +1,2 @@
+
+650c348b7d968ff9716109c4ba7106648fb41ed8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-sticky-regex","integrity":null,"time":1755251795712,"size":"262","metadata":{"time":1755251795712,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-sticky-regex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-sticky-regex"},"options":{"compress":true},"status":301}}

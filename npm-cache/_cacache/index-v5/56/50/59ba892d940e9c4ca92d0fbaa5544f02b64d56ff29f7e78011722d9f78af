@@ -1,0 +1,2 @@
+
+823ac4d7a7e9c0a6bf3c1d520d04b8cf67bca8df	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/coa","integrity":null,"time":1755251798199,"size":"262","metadata":{"time":1755251798199,"url":"http://registry.npm.taobao.org/coa","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/coa"},"options":{"compress":true},"status":301}}

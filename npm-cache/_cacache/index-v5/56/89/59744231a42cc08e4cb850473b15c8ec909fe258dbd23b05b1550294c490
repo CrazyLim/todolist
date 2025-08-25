@@ -1,0 +1,2 @@
+
+47d8cc46b9f06239c8c57c2c9ef2648b6b6fc4f4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/rollup","integrity":null,"time":1755251828462,"size":"262","metadata":{"time":1755251828462,"url":"http://registry.npm.taobao.org/rollup","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/rollup"},"options":{"compress":true},"status":301}}

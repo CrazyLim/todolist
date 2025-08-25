@@ -1,0 +1,2 @@
+
+b80032612ea30c7583f002aead83dbb3eb3bfef6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/abab","integrity":null,"time":1755251792305,"size":"262","metadata":{"time":1755251792305,"url":"http://registry.npm.taobao.org/abab","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/abab"},"options":{"compress":true},"status":301}}

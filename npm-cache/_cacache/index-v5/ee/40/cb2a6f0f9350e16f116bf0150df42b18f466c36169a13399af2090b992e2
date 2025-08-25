@@ -1,0 +1,2 @@
+
+8d088503d629b509be6b87504d4acede3a849b64	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/has-tostringtag","integrity":null,"time":1755251812225,"size":"262","metadata":{"time":1755251812224,"url":"http://registry.npm.taobao.org/has-tostringtag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/has-tostringtag"},"options":{"compress":true},"status":301}}

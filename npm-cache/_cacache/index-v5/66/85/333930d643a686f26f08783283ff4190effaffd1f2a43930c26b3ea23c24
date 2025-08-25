@@ -1,0 +1,2 @@
+
+73f69600a4010085d691efb4449f794b349cccd0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jsx-ast-utils","integrity":null,"time":1755251806105,"size":"262","metadata":{"time":1755251806105,"url":"http://registry.npm.taobao.org/jsx-ast-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:46 GMT","location":"https://registry.npmmirror.com/jsx-ast-utils"},"options":{"compress":true},"status":301}}

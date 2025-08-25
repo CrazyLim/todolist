@@ -1,0 +1,2 @@
+
+d5d2d33e04689a88df67984f1fdb2a7f5109d383	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/symbol-tree","integrity":null,"time":1755251818118,"size":"262","metadata":{"time":1755251818118,"url":"http://registry.npm.taobao.org/symbol-tree","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/symbol-tree"},"options":{"compress":true},"status":301}}

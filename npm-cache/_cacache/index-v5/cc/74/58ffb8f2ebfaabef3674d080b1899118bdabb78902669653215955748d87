@@ -1,0 +1,2 @@
+
+5f13e79f4f658a98d100fc8f2281c27e369015bf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/builtin-modules","integrity":null,"time":1755251829062,"size":"262","metadata":{"time":1755251829062,"url":"http://registry.npm.taobao.org/builtin-modules","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/builtin-modules"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0bca4d766cbcf0f925442a38ccbadd8693bcc004	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regex-parser","integrity":null,"time":1755251822958,"size":"262","metadata":{"time":1755251822958,"url":"http://registry.npm.taobao.org/regex-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/regex-parser"},"options":{"compress":true},"status":301}}

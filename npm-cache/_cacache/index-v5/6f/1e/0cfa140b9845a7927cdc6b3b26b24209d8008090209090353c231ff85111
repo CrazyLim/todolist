@@ -1,0 +1,2 @@
+
+0980ba2f06391920c60a6865982dd97a92480a96	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fprettier","integrity":null,"time":1755251816424,"size":"262","metadata":{"time":1755251816424,"url":"http://registry.npm.taobao.org/@types%2fprettier","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/@types%2fprettier"},"options":{"compress":true},"status":301}}

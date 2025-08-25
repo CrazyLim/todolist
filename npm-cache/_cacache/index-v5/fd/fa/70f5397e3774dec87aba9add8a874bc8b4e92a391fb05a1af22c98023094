@@ -1,0 +1,2 @@
+
+565f8b730a748aef068b107474bb5c024b8baa38	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-html","integrity":null,"time":1755251788569,"size":"262","metadata":{"time":1755251788569,"url":"http://registry.npm.taobao.org/ansi-html","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/ansi-html"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+dee12acd3c2d2880cfe00fb6c54e04de05da17dd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/global-prefix","integrity":null,"time":1755251822113,"size":"262","metadata":{"time":1755251822113,"url":"http://registry.npm.taobao.org/global-prefix","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/global-prefix"},"options":{"compress":true},"status":301}}

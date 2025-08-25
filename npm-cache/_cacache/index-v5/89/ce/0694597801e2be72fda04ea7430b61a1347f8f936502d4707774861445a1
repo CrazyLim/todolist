@@ -1,0 +1,2 @@
+
+cf99d38ac1651c6715529a55b428ba25aad8186b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lru-cache","integrity":null,"time":1755251794459,"size":"262","metadata":{"time":1755251794459,"url":"http://registry.npm.taobao.org/lru-cache","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:34 GMT","location":"https://registry.npmmirror.com/lru-cache"},"options":{"compress":true},"status":301}}

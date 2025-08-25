@@ -1,0 +1,2 @@
+
+3878af143df94601ab269583cc97b4ae9d972810	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-get-type","integrity":null,"time":1755251816245,"size":"262","metadata":{"time":1755251816245,"url":"http://registry.npm.taobao.org/jest-get-type","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/jest-get-type"},"options":{"compress":true},"status":301}}

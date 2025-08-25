@@ -1,0 +1,2 @@
+
+b3474da0aa581ee6de8bcefb5f561c841b36fb2d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yargs-parser","integrity":null,"time":1755251817072,"size":"262","metadata":{"time":1755251817072,"url":"http://registry.npm.taobao.org/yargs-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/yargs-parser"},"options":{"compress":true},"status":301}}

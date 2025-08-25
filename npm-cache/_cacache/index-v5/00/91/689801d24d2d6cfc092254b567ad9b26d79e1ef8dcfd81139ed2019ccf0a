@@ -1,0 +1,2 @@
+
+70a95f245d9655bc0c524629d678ab9fa14552f8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-plugin-polyfill-regenerator","integrity":null,"time":1755251795811,"size":"262","metadata":{"time":1755251795811,"url":"http://registry.npm.taobao.org/babel-plugin-polyfill-regenerator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/babel-plugin-polyfill-regenerator"},"options":{"compress":true},"status":301}}

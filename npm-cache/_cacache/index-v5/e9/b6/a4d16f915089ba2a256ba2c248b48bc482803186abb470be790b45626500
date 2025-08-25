@@ -1,0 +1,2 @@
+
+cf48a45456584f7c0bbd09be3500dd6372cdb676	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-unicode-regex","integrity":null,"time":1755251795758,"size":"262","metadata":{"time":1755251795757,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-unicode-regex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-unicode-regex"},"options":{"compress":true},"status":301}}

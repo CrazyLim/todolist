@@ -1,0 +1,2 @@
+
+b7027dfa452c137a6570bb5e7379a80104fc8593	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fstack-utils","integrity":null,"time":1755251816255,"size":"262","metadata":{"time":1755251816255,"url":"http://registry.npm.taobao.org/@types%2fstack-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/@types%2fstack-utils"},"options":{"compress":true},"status":301}}

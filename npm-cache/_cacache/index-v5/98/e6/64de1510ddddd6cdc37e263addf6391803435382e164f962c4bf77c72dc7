@@ -1,0 +1,2 @@
+
+a812672ed1fe310835b505ca42b7a725720e7efc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-normalize-string","integrity":null,"time":1755251803447,"size":"262","metadata":{"time":1755251803447,"url":"http://registry.npm.taobao.org/postcss-normalize-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-normalize-string"},"options":{"compress":true},"status":301}}

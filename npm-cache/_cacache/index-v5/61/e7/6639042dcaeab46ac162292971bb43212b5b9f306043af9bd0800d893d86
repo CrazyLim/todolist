@@ -1,0 +1,2 @@
+
+dffcabc46ff889f88c7c5068abe830f1bbddb297	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/available-typed-arrays","integrity":null,"time":1755251811796,"size":"262","metadata":{"time":1755251811796,"url":"http://registry.npm.taobao.org/available-typed-arrays","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/available-typed-arrays"},"options":{"compress":true},"status":301}}

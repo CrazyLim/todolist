@@ -1,0 +1,2 @@
+
+8b2380eb5de837e820ae104ff0d8980c8e0e8677	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tsutils","integrity":null,"time":1755251805336,"size":"262","metadata":{"time":1755251805336,"url":"http://registry.npm.taobao.org/tsutils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/tsutils"},"options":{"compress":true},"status":301}}

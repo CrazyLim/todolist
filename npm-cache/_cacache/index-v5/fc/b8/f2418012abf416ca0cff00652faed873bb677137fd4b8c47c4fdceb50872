@@ -1,0 +1,2 @@
+
+af52d1eaffc343b0b9b1f1f2c05b95ae6186575f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/semver","integrity":null,"time":1755251783291,"size":"262","metadata":{"time":1755251783291,"url":"http://registry.npm.taobao.org/semver","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:23 GMT","location":"https://registry.npmmirror.com/semver"},"options":{"compress":true},"status":301}}

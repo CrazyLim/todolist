@@ -1,0 +1,2 @@
+
+b4d0ced94be3fde359f77d29d4eb8d498b5ad2d2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/aria-query","integrity":null,"time":1755251805988,"size":"262","metadata":{"time":1755251805988,"url":"http://registry.npm.taobao.org/aria-query","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/aria-query"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4f32408779fba3917115dd8a5bdc524d74776518	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/typed-array-byte-offset","integrity":null,"time":1755251812184,"size":"262","metadata":{"time":1755251812184,"url":"http://registry.npm.taobao.org/typed-array-byte-offset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/typed-array-byte-offset"},"options":{"compress":true},"status":301}}

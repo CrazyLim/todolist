@@ -1,0 +1,2 @@
+
+d22ba3278e0b9c1fa7b3f29037ca82b0b52ba9ef	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-cacheable-response","integrity":null,"time":1755251828582,"size":"262","metadata":{"time":1755251828582,"url":"http://registry.npm.taobao.org/workbox-cacheable-response","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-cacheable-response"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2268c9f23bde0ea5d895f7cc90054b1a9d928e6a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/spdy","integrity":null,"time":1755251793142,"size":"262","metadata":{"time":1755251793142,"url":"http://registry.npm.taobao.org/spdy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:33 GMT","location":"https://registry.npmmirror.com/spdy"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3378103689f162dfcc4cce5c9df0853ed94ecb83	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sourcemap-codec","integrity":null,"time":1755251829785,"size":"262","metadata":{"time":1755251829785,"url":"http://registry.npm.taobao.org/sourcemap-codec","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/sourcemap-codec"},"options":{"compress":true},"status":301}}

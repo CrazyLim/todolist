@@ -1,0 +1,2 @@
+
+f1443842057eee577c259127c94370e052c848b8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-weakmap","integrity":null,"time":1755251828351,"size":"262","metadata":{"time":1755251828351,"url":"http://registry.npm.taobao.org/is-weakmap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/is-weakmap"},"options":{"compress":true},"status":301}}

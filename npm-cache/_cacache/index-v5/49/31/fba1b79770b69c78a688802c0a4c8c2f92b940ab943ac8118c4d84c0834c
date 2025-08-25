@@ -1,0 +1,2 @@
+
+bed600f7730d0838e40f3ff82621236e901bfb88	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tempy","integrity":null,"time":1755251828466,"size":"262","metadata":{"time":1755251828466,"url":"http://registry.npm.taobao.org/tempy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/tempy"},"options":{"compress":true},"status":301}}

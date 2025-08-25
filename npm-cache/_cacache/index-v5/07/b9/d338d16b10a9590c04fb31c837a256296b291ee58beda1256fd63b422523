@@ -1,0 +1,2 @@
+
+c564672e0c80584e786216a5d8bd1012370a8bed	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cssstyle","integrity":null,"time":1755251817909,"size":"262","metadata":{"time":1755251817909,"url":"http://registry.npm.taobao.org/cssstyle","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/cssstyle"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+feb4c7e029eb5c28d79d745a9cec03312c5d7421	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-plugin-import","integrity":null,"time":1755251790287,"size":"262","metadata":{"time":1755251790287,"url":"http://registry.npm.taobao.org/eslint-plugin-import","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/eslint-plugin-import"},"options":{"compress":true},"status":301}}

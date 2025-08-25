@@ -1,0 +1,2 @@
+
+dce91a95a9cc9ccb656977357e0bfe447560b9bc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/whatwg-encoding","integrity":null,"time":1755251818182,"size":"262","metadata":{"time":1755251818182,"url":"http://registry.npm.taobao.org/whatwg-encoding","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/whatwg-encoding"},"options":{"compress":true},"status":301}}

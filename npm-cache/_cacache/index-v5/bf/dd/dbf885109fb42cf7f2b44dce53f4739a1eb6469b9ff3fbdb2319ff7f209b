@@ -1,0 +1,2 @@
+
+01e04036d3f2aeb81147c7655c2e769e1b3bd46a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/globalthis","integrity":null,"time":1755251811906,"size":"262","metadata":{"time":1755251811906,"url":"http://registry.npm.taobao.org/globalthis","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/globalthis"},"options":{"compress":true},"status":301}}

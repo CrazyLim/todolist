@@ -1,0 +1,2 @@
+
+0b080b324a7b88e8a3058180d9cbcbe0fa988cb1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-snapshot","integrity":null,"time":1755251814442,"size":"262","metadata":{"time":1755251814442,"url":"http://registry.npm.taobao.org/jest-snapshot","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/jest-snapshot"},"options":{"compress":true},"status":301}}

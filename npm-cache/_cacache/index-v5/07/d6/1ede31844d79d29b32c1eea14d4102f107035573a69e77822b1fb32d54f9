@@ -1,0 +1,2 @@
+
+385ca8be097b3353462e763b8eee3d22eb0f7ed2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/universalify","integrity":null,"time":1755251790581,"size":"262","metadata":{"time":1755251790581,"url":"http://registry.npm.taobao.org/universalify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/universalify"},"options":{"compress":true},"status":301}}

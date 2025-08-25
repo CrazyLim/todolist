@@ -1,0 +1,2 @@
+
+66d5cff3b5273f086fe0536e1f6e2cd8066048e3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/svg-parser","integrity":null,"time":1755251795884,"size":"262","metadata":{"time":1755251795884,"url":"http://registry.npm.taobao.org/svg-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/svg-parser"},"options":{"compress":true},"status":301}}

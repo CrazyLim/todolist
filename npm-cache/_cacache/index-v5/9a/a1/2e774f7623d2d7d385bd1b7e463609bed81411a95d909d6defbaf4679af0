@@ -1,0 +1,2 @@
+
+a6ba0751555633a9506282887e674c1f3dcb6b46	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/connect-history-api-fallback","integrity":null,"time":1755251792951,"size":"262","metadata":{"time":1755251792951,"url":"http://registry.npm.taobao.org/connect-history-api-fallback","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/connect-history-api-fallback"},"options":{"compress":true},"status":301}}

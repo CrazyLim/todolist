@@ -1,0 +1,2 @@
+
+d85cbb11e884afc91c00a7f1d8183748b6f5653a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lodash.debounce","integrity":null,"time":1755251800404,"size":"262","metadata":{"time":1755251800404,"url":"http://registry.npm.taobao.org/lodash.debounce","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/lodash.debounce"},"options":{"compress":true},"status":301}}

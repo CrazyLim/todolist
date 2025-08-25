@@ -1,0 +1,2 @@
+
+9225dd0f9c3c7e77a3c86d9774abbd84952eae1d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/string-natural-compare","integrity":null,"time":1755251805341,"size":"262","metadata":{"time":1755251805340,"url":"http://registry.npm.taobao.org/string-natural-compare","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/string-natural-compare"},"options":{"compress":true},"status":301}}

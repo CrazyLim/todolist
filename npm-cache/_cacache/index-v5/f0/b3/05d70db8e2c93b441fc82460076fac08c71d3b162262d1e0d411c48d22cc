@@ -1,0 +1,2 @@
+
+732c0cd17c49980faa5c897b3005465afc421bba	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hoopy","integrity":null,"time":1755251789373,"size":"262","metadata":{"time":1755251789373,"url":"http://registry.npm.taobao.org/hoopy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/hoopy"},"options":{"compress":true},"status":301}}

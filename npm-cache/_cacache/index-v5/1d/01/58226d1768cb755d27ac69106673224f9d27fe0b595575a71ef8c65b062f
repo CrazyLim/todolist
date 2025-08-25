@@ -1,0 +1,2 @@
+
+8f8f4924d0581f3a8bdd2a046fd676bc2de01511	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/crypto-random-string","integrity":null,"time":1755251830368,"size":"262","metadata":{"time":1755251830368,"url":"http://registry.npm.taobao.org/crypto-random-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:10 GMT","location":"https://registry.npmmirror.com/crypto-random-string"},"options":{"compress":true},"status":301}}

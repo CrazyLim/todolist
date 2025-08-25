@@ -1,0 +1,2 @@
+
+46f822dbeb7f7a67e2b855ffff11a8b5b0dbcc6e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unique-string","integrity":null,"time":1755251829176,"size":"262","metadata":{"time":1755251829176,"url":"http://registry.npm.taobao.org/unique-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/unique-string"},"options":{"compress":true},"status":301}}

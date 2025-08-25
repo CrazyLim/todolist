@@ -1,0 +1,2 @@
+
+caef2e09293bd3b4b15a829a81b53276ffa94ea2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fs-monkey","integrity":null,"time":1755251822293,"size":"262","metadata":{"time":1755251822293,"url":"http://registry.npm.taobao.org/fs-monkey","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/fs-monkey"},"options":{"compress":true},"status":301}}

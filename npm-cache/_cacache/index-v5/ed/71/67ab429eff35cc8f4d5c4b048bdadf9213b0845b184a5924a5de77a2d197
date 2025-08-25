@@ -1,0 +1,2 @@
+
+731572d3e5713b08ec109dfe0eec76c5b3fd215a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/merge-descriptors","integrity":null,"time":1755251825936,"size":"262","metadata":{"time":1755251825936,"url":"http://registry.npm.taobao.org/merge-descriptors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/merge-descriptors"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+012d4416d251c22fcb50c705842fe990b217a338	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/core-js-pure","integrity":null,"time":1755251788570,"size":"262","metadata":{"time":1755251788570,"url":"http://registry.npm.taobao.org/core-js-pure","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/core-js-pure"},"options":{"compress":true},"status":301}}

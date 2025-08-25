@@ -1,0 +1,2 @@
+
+f37fb2418eb9173fdddb37fcb2ff6944f200a989	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-runner","integrity":null,"time":1755251814333,"size":"262","metadata":{"time":1755251814333,"url":"http://registry.npm.taobao.org/jest-runner","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/jest-runner"},"options":{"compress":true},"status":301}}

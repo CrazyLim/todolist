@@ -1,0 +1,2 @@
+
+a94285000046f6ace46bbc6ada8d1e6c29603bd5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fsockjs","integrity":null,"time":1755251792841,"size":"262","metadata":{"time":1755251792841,"url":"http://registry.npm.taobao.org/@types%2fsockjs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/@types%2fsockjs"},"options":{"compress":true},"status":301}}

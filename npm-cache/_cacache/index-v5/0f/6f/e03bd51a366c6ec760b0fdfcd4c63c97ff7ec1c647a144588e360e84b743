@@ -1,0 +1,2 @@
+
+e40d17a2878e4126e4ebfa747cb4f97ed4954bc8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/raf","integrity":null,"time":1755251792032,"size":"262","metadata":{"time":1755251792032,"url":"http://registry.npm.taobao.org/raf","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/raf"},"options":{"compress":true},"status":301}}

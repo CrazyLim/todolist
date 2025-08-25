@@ -1,0 +1,2 @@
+
+bc038dba65c442981f5d061663b1796a7c978631	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pascal-case","integrity":null,"time":1755251813740,"size":"262","metadata":{"time":1755251813740,"url":"http://registry.npm.taobao.org/pascal-case","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/pascal-case"},"options":{"compress":true},"status":301}}

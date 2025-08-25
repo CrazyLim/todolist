@@ -1,0 +1,2 @@
+
+b1e5735af57c8b115148653d56a9269406a85d01	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cosmiconfig","integrity":null,"time":1755251791169,"size":"262","metadata":{"time":1755251791169,"url":"http://registry.npm.taobao.org/cosmiconfig","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/cosmiconfig"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+9c986de00f981f08fe62bc871c71ecfcff7001ac	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fhelpers","integrity":null,"time":1755251788393,"size":"262","metadata":{"time":1755251788393,"url":"http://registry.npm.taobao.org/@babel%2fhelpers","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/@babel%2fhelpers"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+758af40d1f0300af0291fa8eec3f59dc2c3ce622	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/nwsapi","integrity":null,"time":1755251818076,"size":"262","metadata":{"time":1755251818076,"url":"http://registry.npm.taobao.org/nwsapi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/nwsapi"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+6dc02ec2d04193d5aa6aa52dcd1f73372b3a9eab	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/inflight","integrity":null,"time":1755251816659,"size":"262","metadata":{"time":1755251816659,"url":"http://registry.npm.taobao.org/inflight","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/inflight"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+906225cba6df6e86bb37db27045cae27eff46e51	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-calc","integrity":null,"time":1755251803284,"size":"262","metadata":{"time":1755251803284,"url":"http://registry.npm.taobao.org/postcss-calc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-calc"},"options":{"compress":true},"status":301}}

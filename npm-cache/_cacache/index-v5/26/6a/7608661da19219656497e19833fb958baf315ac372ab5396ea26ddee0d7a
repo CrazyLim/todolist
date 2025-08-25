@@ -1,0 +1,2 @@
+
+4fb1e3896a1c06b37118d58612ac2442d3f481d8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-visitor-keys","integrity":null,"time":1755251789925,"size":"262","metadata":{"time":1755251789924,"url":"http://registry.npm.taobao.org/eslint-visitor-keys","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/eslint-visitor-keys"},"options":{"compress":true},"status":301}}

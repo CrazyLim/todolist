@@ -1,0 +1,2 @@
+
+c889c74608cb4dc466e9e0e05cbdde3bf07fb144	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regjsparser","integrity":null,"time":1755251797150,"size":"262","metadata":{"time":1755251797150,"url":"http://registry.npm.taobao.org/regjsparser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:37 GMT","location":"https://registry.npmmirror.com/regjsparser"},"options":{"compress":true},"status":301}}

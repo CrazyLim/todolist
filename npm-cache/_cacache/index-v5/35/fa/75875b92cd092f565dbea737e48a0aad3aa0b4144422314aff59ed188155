@@ -1,0 +1,2 @@
+
+196289662f922efe73124d64f698251c54a89dea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-routing","integrity":null,"time":1755251828693,"size":"262","metadata":{"time":1755251828693,"url":"http://registry.npm.taobao.org/workbox-routing","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-routing"},"options":{"compress":true},"status":301}}

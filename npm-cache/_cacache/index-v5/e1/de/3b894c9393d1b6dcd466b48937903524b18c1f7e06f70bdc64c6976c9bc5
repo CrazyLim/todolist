@@ -1,0 +1,2 @@
+
+a6b05b59f275bba59a292dca65b18433a9cc4777	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-minify-gradients","integrity":null,"time":1755251803367,"size":"262","metadata":{"time":1755251803367,"url":"http://registry.npm.taobao.org/postcss-minify-gradients","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-minify-gradients"},"options":{"compress":true},"status":301}}

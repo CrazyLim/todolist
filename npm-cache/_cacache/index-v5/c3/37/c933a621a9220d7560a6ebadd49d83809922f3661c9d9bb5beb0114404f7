@@ -1,0 +1,2 @@
+
+6f464e59cb24f74bbb84ccf0c5f30224b0fff1ff	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/selfsigned","integrity":null,"time":1755251793092,"size":"262","metadata":{"time":1755251793092,"url":"http://registry.npm.taobao.org/selfsigned","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:33 GMT","location":"https://registry.npmmirror.com/selfsigned"},"options":{"compress":true},"status":301}}

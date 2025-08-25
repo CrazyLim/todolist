@@ -1,0 +1,2 @@
+
+8479dc41429f6d0ce1c78a0e89c71be0908f8ccb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/typed-array-byte-length","integrity":null,"time":1755251812166,"size":"262","metadata":{"time":1755251812166,"url":"http://registry.npm.taobao.org/typed-array-byte-length","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/typed-array-byte-length"},"options":{"compress":true},"status":301}}

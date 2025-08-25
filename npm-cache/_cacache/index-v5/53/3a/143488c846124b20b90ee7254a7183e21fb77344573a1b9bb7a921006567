@@ -1,0 +1,2 @@
+
+244c5d4b3b4683402a8ef8bdbba29d034d1c29e7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2festree","integrity":null,"time":1755251788679,"size":"262","metadata":{"time":1755251788679,"url":"http://registry.npm.taobao.org/@types%2festree","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/@types%2festree"},"options":{"compress":true},"status":301}}

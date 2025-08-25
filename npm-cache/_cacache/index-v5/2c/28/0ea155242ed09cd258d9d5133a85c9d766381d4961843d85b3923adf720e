@@ -1,0 +1,2 @@
+
+8c8da7e220ecdfdee6f75fe7dca0a738725ce4bc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@sinonjs%2fcommons","integrity":null,"time":1755251817620,"size":"262","metadata":{"time":1755251817620,"url":"http://registry.npm.taobao.org/@sinonjs%2fcommons","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/@sinonjs%2fcommons"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+17a46020ab1b244126c26a4de678cbf0914d9d84	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/big.js","integrity":null,"time":1755251794841,"size":"262","metadata":{"time":1755251794841,"url":"http://registry.npm.taobao.org/big.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:34 GMT","location":"https://registry.npmmirror.com/big.js"},"options":{"compress":true},"status":301}}

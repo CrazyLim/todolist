@@ -1,0 +1,2 @@
+
+9ecbfa141445c3a53d2ef54d145b3fec8bf07eb2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/renderkid","integrity":null,"time":1755251813507,"size":"262","metadata":{"time":1755251813507,"url":"http://registry.npm.taobao.org/renderkid","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/renderkid"},"options":{"compress":true},"status":301}}

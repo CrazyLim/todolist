@@ -1,0 +1,2 @@
+
+12ed5fb6029111fef35100aece53bd6f4a1c882e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-resolve-dependencies","integrity":null,"time":1755251814331,"size":"262","metadata":{"time":1755251814331,"url":"http://registry.npm.taobao.org/jest-resolve-dependencies","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/jest-resolve-dependencies"},"options":{"compress":true},"status":301}}

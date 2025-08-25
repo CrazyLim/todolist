@@ -1,0 +1,2 @@
+
+51140149af22ea9e6248f8de1b2784477fa824a4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2frange-parser","integrity":null,"time":1755251826495,"size":"262","metadata":{"time":1755251826495,"url":"http://registry.npm.taobao.org/@types%2frange-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:06 GMT","location":"https://registry.npmmirror.com/@types%2frange-parser"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+7e6b6733eb980f27894ea9b5d357ec7c1893fe81	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@svgr%2fcore","integrity":null,"time":1755251788965,"size":"262","metadata":{"time":1755251788965,"url":"http://registry.npm.taobao.org/@svgr%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/@svgr%2fcore"},"options":{"compress":true},"status":301}}

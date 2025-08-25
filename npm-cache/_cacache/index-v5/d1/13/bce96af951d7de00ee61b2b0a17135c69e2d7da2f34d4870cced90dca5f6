@@ -1,0 +1,2 @@
+
+4efccba40879b0dd2db2446ee8bfa6f542f73fe4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-set","integrity":null,"time":1755251812030,"size":"262","metadata":{"time":1755251812030,"url":"http://registry.npm.taobao.org/is-set","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/is-set"},"options":{"compress":true},"status":301}}

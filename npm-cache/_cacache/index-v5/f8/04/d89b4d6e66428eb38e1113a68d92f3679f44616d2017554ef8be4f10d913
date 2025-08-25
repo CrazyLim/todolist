@@ -1,0 +1,2 @@
+
+981c29678113fd6ca38f3cbd19a0fec11c8d7bc9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regexpu-core","integrity":null,"time":1755251797043,"size":"262","metadata":{"time":1755251797043,"url":"http://registry.npm.taobao.org/regexpu-core","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:37 GMT","location":"https://registry.npmmirror.com/regexpu-core"},"options":{"compress":true},"status":301}}

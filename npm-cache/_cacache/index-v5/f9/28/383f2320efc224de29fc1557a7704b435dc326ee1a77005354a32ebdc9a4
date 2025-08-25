@@ -1,0 +1,2 @@
+
+681b8a256c21dbcc56d982c343679c9820ade568	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/multicast-dns","integrity":null,"time":1755251825763,"size":"262","metadata":{"time":1755251825763,"url":"http://registry.npm.taobao.org/multicast-dns","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/multicast-dns"},"options":{"compress":true},"status":301}}

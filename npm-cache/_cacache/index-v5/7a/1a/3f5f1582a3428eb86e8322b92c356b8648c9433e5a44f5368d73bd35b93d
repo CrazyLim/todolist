@@ -1,0 +1,2 @@
+
+9bdd115fa3c3681740788c4b6a1ed6dc36c258d5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mz","integrity":null,"time":1755251823544,"size":"262","metadata":{"time":1755251823544,"url":"http://registry.npm.taobao.org/mz","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/mz"},"options":{"compress":true},"status":301}}

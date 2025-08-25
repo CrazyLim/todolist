@@ -1,0 +1,2 @@
+
+a06c8d590feb0dfa919af0d649dda486524b0d8a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/acorn-globals","integrity":null,"time":1755251817906,"size":"262","metadata":{"time":1755251817906,"url":"http://registry.npm.taobao.org/acorn-globals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/acorn-globals"},"options":{"compress":true},"status":301}}

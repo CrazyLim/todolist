@@ -1,0 +1,2 @@
+
+239106252fc789f6602f8d0be1e35b5521174dc5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@typescript-eslint%2fvisitor-keys","integrity":null,"time":1755251810311,"size":"262","metadata":{"time":1755251810311,"url":"http://registry.npm.taobao.org/@typescript-eslint%2fvisitor-keys","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:50 GMT","location":"https://registry.npmmirror.com/@typescript-eslint%2fvisitor-keys"},"options":{"compress":true},"status":301}}

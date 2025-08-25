@@ -1,0 +1,2 @@
+
+aa32bfca615aba94e41ff059151f50445f027f6a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fpreset-typescript","integrity":null,"time":1755251789283,"size":"262","metadata":{"time":1755251789283,"url":"http://registry.npm.taobao.org/@babel%2fpreset-typescript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/@babel%2fpreset-typescript"},"options":{"compress":true},"status":301}}

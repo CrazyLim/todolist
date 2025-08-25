@@ -1,0 +1,2 @@
+
+38fb117a009e1deea1d674c2ca5d8d6d21ae2c2e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/object.fromentries","integrity":null,"time":1755251805883,"size":"262","metadata":{"time":1755251805883,"url":"http://registry.npm.taobao.org/object.fromentries","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/object.fromentries"},"options":{"compress":true},"status":301}}

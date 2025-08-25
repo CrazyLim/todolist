@@ -1,0 +1,2 @@
+
+21e1b21f0b5e54e02f0e58d01e01f2e9c6d062f2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/serialize-javascript","integrity":null,"time":1755251789698,"size":"262","metadata":{"time":1755251789698,"url":"http://registry.npm.taobao.org/serialize-javascript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/serialize-javascript"},"options":{"compress":true},"status":301}}

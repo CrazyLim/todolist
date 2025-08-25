@@ -1,0 +1,2 @@
+
+11d7491d77f4e775794a7c0299e4117a18d55320	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-map","integrity":null,"time":1755251828353,"size":"262","metadata":{"time":1755251828353,"url":"http://registry.npm.taobao.org/is-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/is-map"},"options":{"compress":true},"status":301}}

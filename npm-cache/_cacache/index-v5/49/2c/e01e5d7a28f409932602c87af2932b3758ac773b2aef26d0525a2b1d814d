@@ -1,0 +1,2 @@
+
+08adcd7038cc5572fc78e5ea7c25cb0e7ee63bfb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fsource-map","integrity":null,"time":1755251813741,"size":"262","metadata":{"time":1755251813741,"url":"http://registry.npm.taobao.org/@jridgewell%2fsource-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fsource-map"},"options":{"compress":true},"status":301}}

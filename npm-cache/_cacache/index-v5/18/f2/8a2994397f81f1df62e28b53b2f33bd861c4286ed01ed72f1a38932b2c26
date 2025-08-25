@@ -1,0 +1,2 @@
+
+58155c184d0ed3aff0b57f6114c4d06b43245d05	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/duplexer","integrity":null,"time":1755251822115,"size":"262","metadata":{"time":1755251822115,"url":"http://registry.npm.taobao.org/duplexer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/duplexer"},"options":{"compress":true},"status":301}}

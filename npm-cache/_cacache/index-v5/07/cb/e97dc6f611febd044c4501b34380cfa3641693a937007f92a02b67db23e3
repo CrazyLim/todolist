@@ -1,0 +1,2 @@
+
+03ec36e5d1506f40920b6b912a3d5e3736a90f8b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@isaacs%2fcliui","integrity":null,"time":1755251831114,"size":"262","metadata":{"time":1755251831114,"url":"http://registry.npm.taobao.org/@isaacs%2fcliui","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:11 GMT","location":"https://registry.npmmirror.com/@isaacs%2fcliui"},"options":{"compress":true},"status":301}}

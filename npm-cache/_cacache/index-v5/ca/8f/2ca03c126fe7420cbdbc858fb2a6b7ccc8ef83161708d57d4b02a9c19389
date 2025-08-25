@@ -1,0 +1,2 @@
+
+2f5d28d7eda790d867d37c22747879265f6bf42d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-font-variant","integrity":null,"time":1755251791755,"size":"262","metadata":{"time":1755251791755,"url":"http://registry.npm.taobao.org/postcss-font-variant","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/postcss-font-variant"},"options":{"compress":true},"status":301}}

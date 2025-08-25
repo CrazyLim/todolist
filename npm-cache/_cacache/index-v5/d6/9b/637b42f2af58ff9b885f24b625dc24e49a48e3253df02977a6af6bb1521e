@@ -1,0 +1,2 @@
+
+bc8c667668cb5316dd0702068a8837cffef2e6ca	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/graceful-fs","integrity":null,"time":1755251788801,"size":"262","metadata":{"time":1755251788801,"url":"http://registry.npm.taobao.org/graceful-fs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/graceful-fs"},"options":{"compress":true},"status":301}}

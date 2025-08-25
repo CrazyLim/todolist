@@ -1,0 +1,2 @@
+
+46d36090f8ff832b7cf48f5d502541293789f400	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/flatted","integrity":null,"time":1755251813172,"size":"262","metadata":{"time":1755251813172,"url":"http://registry.npm.taobao.org/flatted","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/flatted"},"options":{"compress":true},"status":301}}

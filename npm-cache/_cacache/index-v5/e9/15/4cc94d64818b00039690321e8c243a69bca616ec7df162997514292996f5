@@ -1,0 +1,2 @@
+
+3eed1c059f73598279d08de851dd1c12398e5f98	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ci-info","integrity":null,"time":1755251798999,"size":"262","metadata":{"time":1755251798999,"url":"http://registry.npm.taobao.org/ci-info","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/ci-info"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+760904a69450372e4513a1fa6301153ebe2d51d0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tough-cookie","integrity":null,"time":1755251818146,"size":"262","metadata":{"time":1755251818146,"url":"http://registry.npm.taobao.org/tough-cookie","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/tough-cookie"},"options":{"compress":true},"status":301}}

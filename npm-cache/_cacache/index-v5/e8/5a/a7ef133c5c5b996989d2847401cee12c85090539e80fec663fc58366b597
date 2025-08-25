@@ -1,0 +1,2 @@
+
+91435c0b2b699542871910100a17fc0d1a2c12a7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/whatwg-mimetype","integrity":null,"time":1755251818218,"size":"262","metadata":{"time":1755251818218,"url":"http://registry.npm.taobao.org/whatwg-mimetype","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/whatwg-mimetype"},"options":{"compress":true},"status":301}}

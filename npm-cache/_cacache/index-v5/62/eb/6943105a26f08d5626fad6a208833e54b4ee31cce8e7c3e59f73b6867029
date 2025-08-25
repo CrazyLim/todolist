@@ -1,0 +1,2 @@
+
+62a6678a01313c7c216738bf976a8d986d0f0817	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/decimal.js","integrity":null,"time":1755251817912,"size":"262","metadata":{"time":1755251817912,"url":"http://registry.npm.taobao.org/decimal.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/decimal.js"},"options":{"compress":true},"status":301}}

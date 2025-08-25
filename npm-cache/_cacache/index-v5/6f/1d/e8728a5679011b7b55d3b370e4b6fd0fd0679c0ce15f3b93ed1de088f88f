@@ -1,0 +1,2 @@
+
+ae89f0d0ea7837d8f7502b24433f961058410536	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-reduce-initial","integrity":null,"time":1755251803530,"size":"262","metadata":{"time":1755251803530,"url":"http://registry.npm.taobao.org/postcss-reduce-initial","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-reduce-initial"},"options":{"compress":true},"status":301}}

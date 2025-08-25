@@ -1,0 +1,2 @@
+
+8ca92cfc57c332315a8f18c62ed0d4ababe3a7dc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mkdirp","integrity":null,"time":1755251798201,"size":"262","metadata":{"time":1755251798201,"url":"http://registry.npm.taobao.org/mkdirp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/mkdirp"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b9dc8f6f0a097159d99d5092fa2a87917148d9b6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-callable","integrity":null,"time":1755251812024,"size":"262","metadata":{"time":1755251812024,"url":"http://registry.npm.taobao.org/is-callable","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/is-callable"},"options":{"compress":true},"status":301}}

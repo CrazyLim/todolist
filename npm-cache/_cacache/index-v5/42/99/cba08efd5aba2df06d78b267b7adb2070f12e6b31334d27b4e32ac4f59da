@@ -1,0 +1,2 @@
+
+a0898f78df55bc52908545911d6d35a5bc0fab83	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/commondir","integrity":null,"time":1755251800031,"size":"262","metadata":{"time":1755251800031,"url":"http://registry.npm.taobao.org/commondir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/commondir"},"options":{"compress":true},"status":301}}

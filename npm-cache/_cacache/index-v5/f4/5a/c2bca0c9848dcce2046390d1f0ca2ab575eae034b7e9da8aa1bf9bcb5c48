@@ -1,0 +1,2 @@
+
+e560770cc9d76711cf1e3907129fa3c02881e50b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/istanbul-reports","integrity":null,"time":1755251816116,"size":"262","metadata":{"time":1755251816115,"url":"http://registry.npm.taobao.org/istanbul-reports","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/istanbul-reports"},"options":{"compress":true},"status":301}}

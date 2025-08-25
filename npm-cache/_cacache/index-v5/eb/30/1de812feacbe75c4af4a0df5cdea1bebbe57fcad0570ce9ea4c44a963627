@@ -1,0 +1,2 @@
+
+a3f86594df6438716eb529a006e5c95cc2151adf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-minify-font-values","integrity":null,"time":1755251803380,"size":"262","metadata":{"time":1755251803380,"url":"http://registry.npm.taobao.org/postcss-minify-font-values","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-minify-font-values"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+be59715bcffb50cc00dddd1cc91b562d55d91076	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/import-fresh","integrity":null,"time":1755251797628,"size":"262","metadata":{"time":1755251797628,"url":"http://registry.npm.taobao.org/import-fresh","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:37 GMT","location":"https://registry.npmmirror.com/import-fresh"},"options":{"compress":true},"status":301}}

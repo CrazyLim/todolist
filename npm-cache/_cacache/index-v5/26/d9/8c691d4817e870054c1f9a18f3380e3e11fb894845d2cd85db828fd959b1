@@ -1,0 +1,2 @@
+
+b2d7c884531d83715ced7124ee1066815d55c0e7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/exit","integrity":null,"time":1755251814330,"size":"262","metadata":{"time":1755251814330,"url":"http://registry.npm.taobao.org/exit","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/exit"},"options":{"compress":true},"status":301}}

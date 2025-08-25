@@ -1,0 +1,2 @@
+
+82c04530c47c499f28f4615f70c31d0547093393	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/domexception","integrity":null,"time":1755251817908,"size":"262","metadata":{"time":1755251817908,"url":"http://registry.npm.taobao.org/domexception","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/domexception"},"options":{"compress":true},"status":301}}

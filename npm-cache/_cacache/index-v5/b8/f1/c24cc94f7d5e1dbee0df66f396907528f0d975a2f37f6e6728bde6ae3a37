@@ -1,0 +1,2 @@
+
+52184949d7a6b6077b17612df72995ea956da0bb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jackspeak","integrity":null,"time":1755251823826,"size":"262","metadata":{"time":1755251823826,"url":"http://registry.npm.taobao.org/jackspeak","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/jackspeak"},"options":{"compress":true},"status":301}}

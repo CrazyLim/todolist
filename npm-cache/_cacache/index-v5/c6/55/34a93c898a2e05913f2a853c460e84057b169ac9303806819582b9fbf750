@@ -1,0 +1,2 @@
+
+0e94c63692a6521c128f4ec4dc73c743e6d6f7b9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-docker","integrity":null,"time":1755251822122,"size":"262","metadata":{"time":1755251822122,"url":"http://registry.npm.taobao.org/is-docker","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/is-docker"},"options":{"compress":true},"status":301}}

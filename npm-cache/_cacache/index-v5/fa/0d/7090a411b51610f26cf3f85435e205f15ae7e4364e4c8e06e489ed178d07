@@ -1,0 +1,2 @@
+
+5fd03e78da92ea91e2596d3b7803706defcc9aeb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/char-regex","integrity":null,"time":1755251816664,"size":"262","metadata":{"time":1755251816664,"url":"http://registry.npm.taobao.org/char-regex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/char-regex"},"options":{"compress":true},"status":301}}

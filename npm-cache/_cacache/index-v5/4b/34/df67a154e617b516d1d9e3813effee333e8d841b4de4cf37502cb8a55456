@@ -1,0 +1,2 @@
+
+0ea5515d434bbe491e9d88ab2bdba9b4752b3082	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-json-stable-stringify","integrity":null,"time":1755251793190,"size":"262","metadata":{"time":1755251793190,"url":"http://registry.npm.taobao.org/fast-json-stable-stringify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:33 GMT","location":"https://registry.npmmirror.com/fast-json-stable-stringify"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+159c265a9d9640165c0ddea473def20f186f064f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-config-react-app","integrity":null,"time":1755251782919,"size":"262","metadata":{"time":1755251782919,"url":"http://registry.npm.taobao.org/eslint-config-react-app","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:22 GMT","location":"https://registry.npmmirror.com/eslint-config-react-app"},"options":{"compress":true},"status":301}}

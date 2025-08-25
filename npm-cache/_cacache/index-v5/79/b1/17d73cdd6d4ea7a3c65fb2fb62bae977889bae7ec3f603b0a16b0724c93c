@@ -1,0 +1,2 @@
+
+31d011b9167627c59c9f9529d0deb682c611954f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/safe-push-apply","integrity":null,"time":1755251812124,"size":"262","metadata":{"time":1755251812124,"url":"http://registry.npm.taobao.org/safe-push-apply","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/safe-push-apply"},"options":{"compress":true},"status":301}}

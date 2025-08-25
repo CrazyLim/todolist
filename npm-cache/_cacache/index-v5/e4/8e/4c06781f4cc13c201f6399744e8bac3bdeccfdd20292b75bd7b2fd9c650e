@@ -1,0 +1,2 @@
+
+b384f436a34a26b7ef348b35cc548ca2926809a2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-escapes","integrity":null,"time":1755251791039,"size":"262","metadata":{"time":1755251791039,"url":"http://registry.npm.taobao.org/ansi-escapes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/ansi-escapes"},"options":{"compress":true},"status":301}}

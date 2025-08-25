@@ -1,0 +1,2 @@
+
+ca535f713d110518007cae6666579ea23f1bf462	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-literals","integrity":null,"time":1755251795357,"size":"262","metadata":{"time":1755251795357,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-literals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-literals"},"options":{"compress":true},"status":301}}

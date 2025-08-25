@@ -1,0 +1,2 @@
+
+71aa4f99bcbfb6e193128254c9c33e5abd6107d0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regenerate-unicode-properties","integrity":null,"time":1755251797146,"size":"262","metadata":{"time":1755251797146,"url":"http://registry.npm.taobao.org/regenerate-unicode-properties","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:37 GMT","location":"https://registry.npmmirror.com/regenerate-unicode-properties"},"options":{"compress":true},"status":301}}

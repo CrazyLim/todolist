@@ -1,0 +1,2 @@
+
+09be75042301011fc5ee5a0c9bcfe39a24fb42ab	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/brace-expansion","integrity":null,"time":1755251804427,"size":"262","metadata":{"time":1755251804427,"url":"http://registry.npm.taobao.org/brace-expansion","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:44 GMT","location":"https://registry.npmmirror.com/brace-expansion"},"options":{"compress":true},"status":301}}

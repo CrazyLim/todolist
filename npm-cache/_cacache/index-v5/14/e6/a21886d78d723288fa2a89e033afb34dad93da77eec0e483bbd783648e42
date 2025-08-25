@@ -1,0 +1,2 @@
+
+636085845a01b3db7c20f8e67a3cba17b5e41682	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-array-buffer","integrity":null,"time":1755251811969,"size":"262","metadata":{"time":1755251811969,"url":"http://registry.npm.taobao.org/is-array-buffer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/is-array-buffer"},"options":{"compress":true},"status":301}}

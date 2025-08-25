@@ -1,0 +1,2 @@
+
+651654067d6068b9ee981c47d846e40ff4a27f73	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/es-to-primitive","integrity":null,"time":1755251811887,"size":"262","metadata":{"time":1755251811887,"url":"http://registry.npm.taobao.org/es-to-primitive","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/es-to-primitive"},"options":{"compress":true},"status":301}}

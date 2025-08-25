@@ -1,0 +1,2 @@
+
+45b82b5b8ef18abe96abd91218ff2e09e1ec9f5d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/safe-regex-test","integrity":null,"time":1755251806270,"size":"262","metadata":{"time":1755251806270,"url":"http://registry.npm.taobao.org/safe-regex-test","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:46 GMT","location":"https://registry.npmmirror.com/safe-regex-test"},"options":{"compress":true},"status":301}}

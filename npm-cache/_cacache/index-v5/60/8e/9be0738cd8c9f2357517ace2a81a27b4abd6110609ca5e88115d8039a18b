@@ -1,0 +1,2 @@
+
+0e49bfb037b111abf70d6936ccde9519b42dc7ea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/watchpack","integrity":null,"time":1755251788888,"size":"262","metadata":{"time":1755251788888,"url":"http://registry.npm.taobao.org/watchpack","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/watchpack"},"options":{"compress":true},"status":301}}

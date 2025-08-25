@@ -1,0 +1,2 @@
+
+5a8eacf9a061b6675ab01e1c159e35319dab7549	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/media-typer","integrity":null,"time":1755251826979,"size":"262","metadata":{"time":1755251826979,"url":"http://registry.npm.taobao.org/media-typer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:06 GMT","location":"https://registry.npmmirror.com/media-typer"},"options":{"compress":true},"status":301}}

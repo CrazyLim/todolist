@@ -1,0 +1,2 @@
+
+13f011ab385fddeaf7a392f4276a48b1003415a7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/saxes","integrity":null,"time":1755251818114,"size":"262","metadata":{"time":1755251818114,"url":"http://registry.npm.taobao.org/saxes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/saxes"},"options":{"compress":true},"status":301}}

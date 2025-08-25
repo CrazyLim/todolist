@@ -1,0 +1,2 @@
+
+0a8181c8489da9a4e0e4ccef170af0904bbb5c75	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/minimist","integrity":null,"time":1755251811616,"size":"262","metadata":{"time":1755251811616,"url":"http://registry.npm.taobao.org/minimist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/minimist"},"options":{"compress":true},"status":301}}

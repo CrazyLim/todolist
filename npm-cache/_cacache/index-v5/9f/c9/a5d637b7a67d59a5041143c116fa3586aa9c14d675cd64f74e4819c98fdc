@@ -1,0 +1,2 @@
+
+432babbe024698ed8b0c91725f62eadc46ca5f0e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/confusing-browser-globals","integrity":null,"time":1755251790276,"size":"262","metadata":{"time":1755251790276,"url":"http://registry.npm.taobao.org/confusing-browser-globals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/confusing-browser-globals"},"options":{"compress":true},"status":301}}

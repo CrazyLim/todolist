@@ -1,0 +1,2 @@
+
+3b46b8fb4a8594fa18f9ecbea9ed43ee31d234c5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/thunky","integrity":null,"time":1755251826798,"size":"262","metadata":{"time":1755251826798,"url":"http://registry.npm.taobao.org/thunky","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:06 GMT","location":"https://registry.npmmirror.com/thunky"},"options":{"compress":true},"status":301}}

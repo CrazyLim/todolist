@@ -1,0 +1,2 @@
+
+846a1d866ac737b6ff5df9def4f368e74e9c4ea2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/css-select","integrity":null,"time":1755251798201,"size":"262","metadata":{"time":1755251798201,"url":"http://registry.npm.taobao.org/css-select","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/css-select"},"options":{"compress":true},"status":301}}

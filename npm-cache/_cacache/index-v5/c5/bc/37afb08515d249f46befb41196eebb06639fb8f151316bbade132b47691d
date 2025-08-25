@@ -1,0 +1,2 @@
+
+32d8711b840c107c9e763d1d7fb215c0a769536a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jest%2ftransform","integrity":null,"time":1755251789031,"size":"262","metadata":{"time":1755251789030,"url":"http://registry.npm.taobao.org/@jest%2ftransform","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/@jest%2ftransform"},"options":{"compress":true},"status":301}}

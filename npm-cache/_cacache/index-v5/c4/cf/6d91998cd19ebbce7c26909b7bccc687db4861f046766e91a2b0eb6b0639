@@ -1,0 +1,2 @@
+
+aaf803457ce85d29dc55ae6dc7d70a825f6277ed	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-boolean-object","integrity":null,"time":1755251824818,"size":"262","metadata":{"time":1755251824818,"url":"http://registry.npm.taobao.org/is-boolean-object","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/is-boolean-object"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+f1a7f5089f06bbd84951de382e03f88171ec6558	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-comments","integrity":null,"time":1755251828464,"size":"262","metadata":{"time":1755251828464,"url":"http://registry.npm.taobao.org/strip-comments","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/strip-comments"},"options":{"compress":true},"status":301}}

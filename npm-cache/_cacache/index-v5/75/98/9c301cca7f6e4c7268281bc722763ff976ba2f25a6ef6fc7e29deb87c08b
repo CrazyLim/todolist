@@ -1,0 +1,2 @@
+
+9bc8945cfe1a9f5ac5d1bd01343444937499fa18	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/websocket-driver","integrity":null,"time":1755251826125,"size":"262","metadata":{"time":1755251826125,"url":"http://registry.npm.taobao.org/websocket-driver","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:06 GMT","location":"https://registry.npmmirror.com/websocket-driver"},"options":{"compress":true},"status":301}}

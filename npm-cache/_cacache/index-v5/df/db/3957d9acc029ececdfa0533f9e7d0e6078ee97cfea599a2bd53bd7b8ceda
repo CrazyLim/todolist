@@ -1,0 +1,2 @@
+
+64c4a6517fa0cd4b797f385ab4a037a9298c597f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fork-ts-checker-webpack-plugin","integrity":null,"time":1755251792135,"size":"262","metadata":{"time":1755251792135,"url":"http://registry.npm.taobao.org/fork-ts-checker-webpack-plugin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/fork-ts-checker-webpack-plugin"},"options":{"compress":true},"status":301}}

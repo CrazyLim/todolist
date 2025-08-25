@@ -1,0 +1,2 @@
+
+901043ee1075efc944e748eb6f14045fc94c63d4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@pkgjs%2fparseargs","integrity":null,"time":1755251831118,"size":"262","metadata":{"time":1755251831118,"url":"http://registry.npm.taobao.org/@pkgjs%2fparseargs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:11 GMT","location":"https://registry.npmmirror.com/@pkgjs%2fparseargs"},"options":{"compress":true},"status":301}}

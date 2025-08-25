@@ -1,0 +1,2 @@
+
+343a1a6da6dc04f719a35bd5450533ca623fb574	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-jest","integrity":null,"time":1755251782635,"size":"262","metadata":{"time":1755251782635,"url":"http://registry.npm.taobao.org/babel-jest","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:22 GMT","location":"https://registry.npmmirror.com/babel-jest"},"options":{"compress":true},"status":301}}

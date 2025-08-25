@@ -1,0 +1,2 @@
+
+2fb82a1a31807a6078e23ef610ff8bbee8e91935	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-root","integrity":null,"time":1755251792168,"size":"262","metadata":{"time":1755251792168,"url":"http://registry.npm.taobao.org/is-root","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/is-root"},"options":{"compress":true},"status":301}}

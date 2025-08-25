@@ -1,0 +1,2 @@
+
+833a3d71b139e1f6737dc6977e0234fac008b937	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/detect-newline","integrity":null,"time":1755251818857,"size":"262","metadata":{"time":1755251818857,"url":"http://registry.npm.taobao.org/detect-newline","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/detect-newline"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1f1a392f13e04fcdc9360e54d5d5d24a4b382c64	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/recursive-readdir","integrity":null,"time":1755251792278,"size":"262","metadata":{"time":1755251792278,"url":"http://registry.npm.taobao.org/recursive-readdir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/recursive-readdir"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+db895444b6d080f6433e110df9d3c6b906f98829	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-weakref","integrity":null,"time":1755251812044,"size":"262","metadata":{"time":1755251812044,"url":"http://registry.npm.taobao.org/is-weakref","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/is-weakref"},"options":{"compress":true},"status":301}}

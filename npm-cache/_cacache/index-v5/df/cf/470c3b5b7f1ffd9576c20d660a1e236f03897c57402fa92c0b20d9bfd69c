@@ -1,0 +1,2 @@
+
+f3d636aa3acee3b045b6914f07089b811a686cee	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-clamp","integrity":null,"time":1755251791490,"size":"262","metadata":{"time":1755251791490,"url":"http://registry.npm.taobao.org/postcss-clamp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/postcss-clamp"},"options":{"compress":true},"status":301}}

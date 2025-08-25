@@ -1,0 +1,2 @@
+
+b004c9fa8739068dbdee8ed5bad3579aa5cf37e0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/wbuf","integrity":null,"time":1755251827534,"size":"262","metadata":{"time":1755251827534,"url":"http://registry.npm.taobao.org/wbuf","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:07 GMT","location":"https://registry.npmmirror.com/wbuf"},"options":{"compress":true},"status":301}}

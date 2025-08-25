@@ -1,0 +1,2 @@
+
+d594ffda12693fe0a1d4d125fb76a4fc67b4230f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/npm-run-path","integrity":null,"time":1755251816842,"size":"262","metadata":{"time":1755251816842,"url":"http://registry.npm.taobao.org/npm-run-path","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/npm-run-path"},"options":{"compress":true},"status":301}}

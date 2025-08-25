@@ -1,0 +1,2 @@
+
+23aa4d80f0292d888bee848479cef126f21d60d7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/temp-dir","integrity":null,"time":1755251829178,"size":"262","metadata":{"time":1755251829178,"url":"http://registry.npm.taobao.org/temp-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/temp-dir"},"options":{"compress":true},"status":301}}

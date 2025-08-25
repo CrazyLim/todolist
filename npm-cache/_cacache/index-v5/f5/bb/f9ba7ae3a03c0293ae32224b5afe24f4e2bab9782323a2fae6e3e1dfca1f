@@ -1,0 +1,2 @@
+
+d5473e367e2abc2e80621e3c5b0dd451cfccb44f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-colormin","integrity":null,"time":1755251803282,"size":"262","metadata":{"time":1755251803282,"url":"http://registry.npm.taobao.org/postcss-colormin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-colormin"},"options":{"compress":true},"status":301}}

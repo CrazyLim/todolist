@@ -1,0 +1,2 @@
+
+1db6f4444f60d7a1366b03aa4bf43d9c4fea5d4b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/dedent","integrity":null,"time":1755251817216,"size":"262","metadata":{"time":1755251817216,"url":"http://registry.npm.taobao.org/dedent","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/dedent"},"options":{"compress":true},"status":301}}

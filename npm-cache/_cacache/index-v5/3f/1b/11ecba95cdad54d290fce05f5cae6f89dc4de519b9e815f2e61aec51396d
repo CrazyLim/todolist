@@ -1,0 +1,2 @@
+
+d09efd6b40a98eef3edb8e997cd45374d74c078d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unicode-canonical-property-names-ecmascript","integrity":null,"time":1755251822624,"size":"262","metadata":{"time":1755251822624,"url":"http://registry.npm.taobao.org/unicode-canonical-property-names-ecmascript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/unicode-canonical-property-names-ecmascript"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+6231f6edab19f130ae53fa3ca3745ab81ce5af12	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-plugin-macros","integrity":null,"time":1755251789304,"size":"262","metadata":{"time":1755251789304,"url":"http://registry.npm.taobao.org/babel-plugin-macros","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/babel-plugin-macros"},"options":{"compress":true},"status":301}}

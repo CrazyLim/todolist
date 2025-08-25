@@ -1,0 +1,2 @@
+
+4bcd03829193c121a581f8245f0bbd5d7b6f036a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/keyv","integrity":null,"time":1755251813173,"size":"262","metadata":{"time":1755251813173,"url":"http://registry.npm.taobao.org/keyv","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/keyv"},"options":{"compress":true},"status":301}}

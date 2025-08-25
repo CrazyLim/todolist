@@ -1,0 +1,2 @@
+
+291a83bb047fe49276bd7bc591a2fe860d90ca15	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/which-builtin-type","integrity":null,"time":1755251824402,"size":"262","metadata":{"time":1755251824402,"url":"http://registry.npm.taobao.org/which-builtin-type","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/which-builtin-type"},"options":{"compress":true},"status":301}}

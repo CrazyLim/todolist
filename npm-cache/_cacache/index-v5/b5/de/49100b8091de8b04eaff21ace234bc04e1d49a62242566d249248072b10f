@@ -1,0 +1,2 @@
+
+86baac65adfa581d533afe982937dc65b11b91cd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/obuf","integrity":null,"time":1755251827533,"size":"262","metadata":{"time":1755251827533,"url":"http://registry.npm.taobao.org/obuf","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:07 GMT","location":"https://registry.npmmirror.com/obuf"},"options":{"compress":true},"status":301}}

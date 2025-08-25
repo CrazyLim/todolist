@@ -1,0 +1,2 @@
+
+eee4dc39bca573e2e8cb52d1aaf7d6ac1bf6dabe	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/side-channel-weakmap","integrity":null,"time":1755251814229,"size":"262","metadata":{"time":1755251814229,"url":"http://registry.npm.taobao.org/side-channel-weakmap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/side-channel-weakmap"},"options":{"compress":true},"status":301}}

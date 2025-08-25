@@ -1,0 +1,2 @@
+
+d89c3e24227bc40f0eb8a3b492695ae1beedbd9e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jest%2freporters","integrity":null,"time":1755251814333,"size":"262","metadata":{"time":1755251814333,"url":"http://registry.npm.taobao.org/@jest%2freporters","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/@jest%2freporters"},"options":{"compress":true},"status":301}}

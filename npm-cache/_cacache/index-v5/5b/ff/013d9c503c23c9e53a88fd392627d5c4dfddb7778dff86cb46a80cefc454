@@ -1,0 +1,2 @@
+
+57cb590eaa5bf480820b6d5b3dc71263c1ecea78	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/util.promisify","integrity":null,"time":1755251798209,"size":"262","metadata":{"time":1755251798209,"url":"http://registry.npm.taobao.org/util.promisify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/util.promisify"},"options":{"compress":true},"status":301}}

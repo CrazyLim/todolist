@@ -1,0 +1,2 @@
+
+ce0660321e4fb6b3318817c52f8f615a6859719c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@csstools%2fpostcss-nested-calc","integrity":null,"time":1755251791321,"size":"262","metadata":{"time":1755251791321,"url":"http://registry.npm.taobao.org/@csstools%2fpostcss-nested-calc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/@csstools%2fpostcss-nested-calc"},"options":{"compress":true},"status":301}}

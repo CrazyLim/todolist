@@ -1,0 +1,2 @@
+
+7b8118232f48599246daeed02987247934fe22fb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/stop-iteration-iterator","integrity":null,"time":1755251812132,"size":"262","metadata":{"time":1755251812131,"url":"http://registry.npm.taobao.org/stop-iteration-iterator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/stop-iteration-iterator"},"options":{"compress":true},"status":301}}

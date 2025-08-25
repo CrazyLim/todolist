@@ -1,0 +1,2 @@
+
+accd55aaada789a7b1c89e43ff59ad277c6134e6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/w3c-hr-time","integrity":null,"time":1755251818146,"size":"262","metadata":{"time":1755251818146,"url":"http://registry.npm.taobao.org/w3c-hr-time","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/w3c-hr-time"},"options":{"compress":true},"status":301}}

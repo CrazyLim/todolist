@@ -1,0 +1,2 @@
+
+e9721f90f54f22c66a4aca71cba349d2c5cfc6ed	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/type-fest","integrity":null,"time":1755251785874,"size":"262","metadata":{"time":1755251785873,"url":"http://registry.npm.taobao.org/type-fest","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:25 GMT","location":"https://registry.npmmirror.com/type-fest"},"options":{"compress":true},"status":301}}

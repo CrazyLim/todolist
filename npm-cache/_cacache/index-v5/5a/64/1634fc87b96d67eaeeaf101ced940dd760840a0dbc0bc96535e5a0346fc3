@@ -1,0 +1,2 @@
+
+c0086d4a92b1e5d9b4a17be8e0b78147f308c883	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/diff-sequences","integrity":null,"time":1755251818749,"size":"262","metadata":{"time":1755251818749,"url":"http://registry.npm.taobao.org/diff-sequences","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/diff-sequences"},"options":{"compress":true},"status":301}}

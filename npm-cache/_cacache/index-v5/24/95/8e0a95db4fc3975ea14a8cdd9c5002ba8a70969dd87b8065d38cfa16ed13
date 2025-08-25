@@ -1,0 +1,2 @@
+
+b960dc64b4b1755bce45fcd6457b73a64e951ec9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/thenify-all","integrity":null,"time":1755251823827,"size":"262","metadata":{"time":1755251823827,"url":"http://registry.npm.taobao.org/thenify-all","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/thenify-all"},"options":{"compress":true},"status":301}}

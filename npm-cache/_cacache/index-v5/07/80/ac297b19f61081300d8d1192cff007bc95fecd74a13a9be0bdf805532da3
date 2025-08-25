@@ -1,0 +1,2 @@
+
+f7255554e592fa398a04d19bf200fdd00e233311	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ts-interface-checker","integrity":null,"time":1755251823545,"size":"262","metadata":{"time":1755251823545,"url":"http://registry.npm.taobao.org/ts-interface-checker","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/ts-interface-checker"},"options":{"compress":true},"status":301}}

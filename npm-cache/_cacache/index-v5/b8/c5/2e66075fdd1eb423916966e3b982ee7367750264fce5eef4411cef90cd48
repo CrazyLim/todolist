@@ -1,0 +1,2 @@
+
+26e100ecf5f3da1c96196ce9101df235a6a763e5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fb-watchman","integrity":null,"time":1755251799003,"size":"262","metadata":{"time":1755251799003,"url":"http://registry.npm.taobao.org/fb-watchman","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/fb-watchman"},"options":{"compress":true},"status":301}}

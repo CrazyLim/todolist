@@ -1,0 +1,2 @@
+
+560dd597286eb71f6a0f25d8f9307a620148633b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/object.groupby","integrity":null,"time":1755251805947,"size":"262","metadata":{"time":1755251805947,"url":"http://registry.npm.taobao.org/object.groupby","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/object.groupby"},"options":{"compress":true},"status":301}}

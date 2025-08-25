@@ -1,0 +1,2 @@
+
+f7f364006af75a8aea33e20658e5293ba3e5a069	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tmpl","integrity":null,"time":1755251825236,"size":"262","metadata":{"time":1755251825235,"url":"http://registry.npm.taobao.org/tmpl","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/tmpl"},"options":{"compress":true},"status":301}}

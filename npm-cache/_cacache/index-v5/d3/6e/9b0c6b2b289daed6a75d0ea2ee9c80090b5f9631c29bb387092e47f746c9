@@ -1,0 +1,2 @@
+
+2a542114764a61ec0894d31a7a25a11fffd02056	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-number-object","integrity":null,"time":1755251824821,"size":"262","metadata":{"time":1755251824821,"url":"http://registry.npm.taobao.org/is-number-object","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/is-number-object"},"options":{"compress":true},"status":301}}

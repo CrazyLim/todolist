@@ -1,0 +1,2 @@
+
+e97c4a0496b2984c9a2336012a18c12ae2563f17	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/stringify-object","integrity":null,"time":1755251828463,"size":"262","metadata":{"time":1755251828463,"url":"http://registry.npm.taobao.org/stringify-object","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/stringify-object"},"options":{"compress":true},"status":301}}

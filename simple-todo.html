@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>简易待办事项列表</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .input-container {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    input {
+      flex-grow: 1;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ddd;
+      border-radius: 4px 0 0 4px;
+    }
+    button {
+      padding: 10px 15px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 0 4px 4px 0;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .task-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+    .task-text {
+      cursor: pointer;
+    }
+    .completed .task-text {
+      text-decoration: line-through;
+      color: #888;
+    }
+    li button {
+      background-color: #f44336;
+      border-radius: 4px;
+    }
+    li button:hover {
+      background-color: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+  <div class="app-container">
+    <h1>待办事项列表</h1>
+    <div class="input-container">
+      <input type="text" id="taskInput" placeholder="添加新任务...">
+      <button onclick="addTask()">添加</button>
+    </div>
+    <ul id="taskList" class="task-list"></ul>
+  </div>
+
+  <script>
+    // 获取DOM元素
+    const taskInput = document.getElementById('taskInput');
+    const taskList = document.getElementById('taskList');
+
+    // 从本地存储加载任务
+    function loadTasks() {
+      const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
+      tasks.forEach(task => {
+        addTaskToDOM(task);
+      });
+    }
+
+    // 添加任务到DOM
+    function addTaskToDOM(task) {
+      const li = document.createElement('li');
+      if (task.completed) {
+        li.classList.add('completed');
+      }
+
+      const span = document.createElement('span');
+      span.textContent = task.text;
+      span.classList.add('task-text');
+      span.onclick = () => toggleComplete(li, task.id);
+
+      const button = document.createElement('button');
+      button.textContent = '删除';
+      button.onclick = () => deleteTask(li, task.id);
+
+      li.appendChild(span);
+      li.appendChild(button);
+      li.dataset.id = task.id;
+
+      taskList.appendChild(li);
+    }
+
+    // 添加新任务
+    function addTask() {
+      const text = taskInput.value.trim();
+      if (text !== '') {
+        const task = {
+          id: Date.now(),
+          text: text,
+          completed: false
+        };
+
+        // 添加到DOM
+        addTaskToDOM(task);
+
+        // 保存到本地存储
+        saveTask(task);
+
+        // 清空输入框
+        taskInput.value = '';
+      }
+    }
+
+    // 保存任务到本地存储
+    function saveTask(task) {
+      const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
+      tasks.push(task);
+      localStorage.setItem('tasks', JSON.stringify(tasks));
+    }
+
+    // 切换任务完成状态
+    function toggleComplete(li, id) {
+      li.classList.toggle('completed');
+
+      // 更新本地存储
+      const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
+      const updatedTasks = tasks.map(task => {
+        if (task.id === id) {
+          return { ...task, completed: !task.completed };
+        }
+        return task;
+      });
+      localStorage.setItem('tasks', JSON.stringify(updatedTasks));
+    }
+
+    // 删除任务
+    function deleteTask(li, id) {
+      li.remove();
+
+      // 从本地存储删除
+      const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
+      const updatedTasks = tasks.filter(task => task.id !== id);
+      localStorage.setItem('tasks', JSON.stringify(updatedTasks));
+    }
+
+    // 处理回车键添加任务
+    taskInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        addTask();
+      }
+    });
+
+    // 页面加载时加载任务
+    window.onload = loadTasks;
+  </script>
+</body>
+</html>

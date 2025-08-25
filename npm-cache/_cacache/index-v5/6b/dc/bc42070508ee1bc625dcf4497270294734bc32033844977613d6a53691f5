@@ -1,0 +1,2 @@
+
+8d09c0578c0b5f70af72fc3fa6c9b46bbf9c3d11	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-validate","integrity":null,"time":1755251790836,"size":"262","metadata":{"time":1755251790836,"url":"http://registry.npm.taobao.org/jest-validate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/jest-validate"},"options":{"compress":true},"status":301}}

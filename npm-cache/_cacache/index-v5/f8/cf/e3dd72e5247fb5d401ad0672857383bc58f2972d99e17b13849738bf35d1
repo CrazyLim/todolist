@@ -1,0 +1,2 @@
+
+ea714f886d842f1f51ef10b573df78c88b600d19	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/react-dev-utils","integrity":null,"time":1755251783211,"size":"262","metadata":{"time":1755251783211,"url":"http://registry.npm.taobao.org/react-dev-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:23 GMT","location":"https://registry.npmmirror.com/react-dev-utils"},"options":{"compress":true},"status":301}}

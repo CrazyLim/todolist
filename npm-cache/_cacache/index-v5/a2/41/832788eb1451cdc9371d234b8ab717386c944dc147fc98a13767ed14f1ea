@@ -1,0 +1,2 @@
+
+d5969d28c020d91caef36fca52d6932727640730	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/array.prototype.findlastindex","integrity":null,"time":1755251805430,"size":"262","metadata":{"time":1755251805430,"url":"http://registry.npm.taobao.org/array.prototype.findlastindex","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/array.prototype.findlastindex"},"options":{"compress":true},"status":301}}

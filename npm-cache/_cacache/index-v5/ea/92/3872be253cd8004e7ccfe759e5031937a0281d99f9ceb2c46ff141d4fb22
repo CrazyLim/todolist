@@ -1,0 +1,2 @@
+
+8b721865d886cfe5cac7054cc0f1f0fdd8a58c44	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/underscore","integrity":null,"time":1755251800933,"size":"262","metadata":{"time":1755251800933,"url":"http://registry.npm.taobao.org/underscore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/underscore"},"options":{"compress":true},"status":301}}

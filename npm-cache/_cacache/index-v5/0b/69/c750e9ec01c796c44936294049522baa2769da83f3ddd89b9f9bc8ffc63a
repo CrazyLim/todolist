@@ -1,0 +1,2 @@
+
+536d3af99271ed757d1d439e32863ce97cd5320c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-circus","integrity":null,"time":1755251816205,"size":"262","metadata":{"time":1755251816205,"url":"http://registry.npm.taobao.org/jest-circus","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/jest-circus"},"options":{"compress":true},"status":301}}

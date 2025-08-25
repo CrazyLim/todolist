@@ -1,0 +1,2 @@
+
+52e7bd7b38467f3e9f4f157468388433dcfe621f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-range-requests","integrity":null,"time":1755251828611,"size":"262","metadata":{"time":1755251828611,"url":"http://registry.npm.taobao.org/workbox-range-requests","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-range-requests"},"options":{"compress":true},"status":301}}

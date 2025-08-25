@@ -1,0 +1,2 @@
+
+a1571b067d60f89ef80e603ae3acc58be0f2253a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-precaching","integrity":null,"time":1755251828608,"size":"262","metadata":{"time":1755251828608,"url":"http://registry.npm.taobao.org/workbox-precaching","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-precaching"},"options":{"compress":true},"status":301}}

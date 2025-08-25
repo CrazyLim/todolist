@@ -1,0 +1,2 @@
+
+a6cb8e079b4ba4ddaae81158968da8b4750af452	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-plugin-istanbul","integrity":null,"time":1755251789071,"size":"262","metadata":{"time":1755251789071,"url":"http://registry.npm.taobao.org/babel-plugin-istanbul","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/babel-plugin-istanbul"},"options":{"compress":true},"status":301}}

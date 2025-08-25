@@ -1,0 +1,2 @@
+
+38b4074617e8aa819e789810662bd42bdf130f12	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-negative-zero","integrity":null,"time":1755251812027,"size":"262","metadata":{"time":1755251812027,"url":"http://registry.npm.taobao.org/is-negative-zero","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/is-negative-zero"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+8ad5810f05102b837bb96a139f4b43ee123996d0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-diff","integrity":null,"time":1755251816444,"size":"262","metadata":{"time":1755251816444,"url":"http://registry.npm.taobao.org/jest-diff","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/jest-diff"},"options":{"compress":true},"status":301}}

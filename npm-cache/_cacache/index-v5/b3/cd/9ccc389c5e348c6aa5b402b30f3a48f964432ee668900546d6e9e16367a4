@@ -1,0 +1,2 @@
+
+84da341bc17d7fbd17a36d223a7a0458048f2b0f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fwast-printer","integrity":null,"time":1755251825367,"size":"262","metadata":{"time":1755251825367,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fwast-printer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fwast-printer"},"options":{"compress":true},"status":301}}

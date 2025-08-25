@@ -1,0 +1,2 @@
+
+49538d3c3000478743b37a554090751cfa707801	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-date-object","integrity":null,"time":1755251812420,"size":"262","metadata":{"time":1755251812420,"url":"http://registry.npm.taobao.org/is-date-object","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/is-date-object"},"options":{"compress":true},"status":301}}

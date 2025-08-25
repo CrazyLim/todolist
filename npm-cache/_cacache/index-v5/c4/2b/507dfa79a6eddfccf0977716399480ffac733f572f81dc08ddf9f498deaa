@@ -1,0 +1,2 @@
+
+ee6febdc9dd14b3ff250823090edf2e294d3c67d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/core-js-compat","integrity":null,"time":1755251795819,"size":"262","metadata":{"time":1755251795819,"url":"http://registry.npm.taobao.org/core-js-compat","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/core-js-compat"},"options":{"compress":true},"status":301}}

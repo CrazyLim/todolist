@@ -1,0 +1,2 @@
+
+e778192ae90bb022dd46af8e2f156449c1c47fb5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-pnp-resolver","integrity":null,"time":1755251790824,"size":"262","metadata":{"time":1755251790823,"url":"http://registry.npm.taobao.org/jest-pnp-resolver","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/jest-pnp-resolver"},"options":{"compress":true},"status":301}}

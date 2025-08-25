@@ -1,0 +1,2 @@
+
+fb388add8a25c041814263fead86c86a1c528a98	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pify","integrity":null,"time":1755251823677,"size":"262","metadata":{"time":1755251823677,"url":"http://registry.npm.taobao.org/pify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/pify"},"options":{"compress":true},"status":301}}

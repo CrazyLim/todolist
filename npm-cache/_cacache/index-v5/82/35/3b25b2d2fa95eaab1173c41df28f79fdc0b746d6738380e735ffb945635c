@@ -1,0 +1,2 @@
+
+d654197d6fa39bd93bde9255a2e6dcceab349a47	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/escodegen","integrity":null,"time":1755251817916,"size":"262","metadata":{"time":1755251817916,"url":"http://registry.npm.taobao.org/escodegen","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/escodegen"},"options":{"compress":true},"status":301}}

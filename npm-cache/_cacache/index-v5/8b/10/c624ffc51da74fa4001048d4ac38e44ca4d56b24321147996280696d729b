@@ -1,0 +1,2 @@
+
+2448d5443c10561c55469343f7b76337ae54994c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/common-tags","integrity":null,"time":1755251828462,"size":"262","metadata":{"time":1755251828462,"url":"http://registry.npm.taobao.org/common-tags","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/common-tags"},"options":{"compress":true},"status":301}}

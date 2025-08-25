@@ -1,0 +1,2 @@
+
+d235c474d281cf48fce587eadf261a5a8651c012	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/identity-obj-proxy","integrity":null,"time":1755251782992,"size":"262","metadata":{"time":1755251782992,"url":"http://registry.npm.taobao.org/identity-obj-proxy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:22 GMT","location":"https://registry.npmmirror.com/identity-obj-proxy"},"options":{"compress":true},"status":301}}

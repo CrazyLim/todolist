@@ -1,0 +1,2 @@
+
+55a28cc2c5052537493a04039fc938315582d6e1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fcompat-data","integrity":null,"time":1755251794459,"size":"262","metadata":{"time":1755251794459,"url":"http://registry.npm.taobao.org/@babel%2fcompat-data","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:34 GMT","location":"https://registry.npmmirror.com/@babel%2fcompat-data"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+e429fb3a5985cf824e826f7ec600bc30431f1c3a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-reduce-transforms","integrity":null,"time":1755251803534,"size":"262","metadata":{"time":1755251803534,"url":"http://registry.npm.taobao.org/postcss-reduce-transforms","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/postcss-reduce-transforms"},"options":{"compress":true},"status":301}}

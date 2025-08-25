@@ -1,0 +1,2 @@
+
+0804dd6526ff6524d7a26406cf1b3a9b96000e20	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lower-case","integrity":null,"time":1755251820820,"size":"262","metadata":{"time":1755251820820,"url":"http://registry.npm.taobao.org/lower-case","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:00 GMT","location":"https://registry.npmmirror.com/lower-case"},"options":{"compress":true},"status":301}}

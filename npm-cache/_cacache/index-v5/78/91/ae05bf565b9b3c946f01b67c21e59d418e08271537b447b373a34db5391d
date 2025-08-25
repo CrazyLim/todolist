@@ -1,0 +1,2 @@
+
+70a378362f4347ac8bc3c39e81b0d93359188d62	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fhelper-module-transforms","integrity":null,"time":1755251788390,"size":"262","metadata":{"time":1755251788390,"url":"http://registry.npm.taobao.org/@babel%2fhelper-module-transforms","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/@babel%2fhelper-module-transforms"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b725f21255fe5d9a314550aee0da22fa40999d13	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-syntax-bigint","integrity":null,"time":1755251800494,"size":"262","metadata":{"time":1755251800494,"url":"http://registry.npm.taobao.org/@babel%2fplugin-syntax-bigint","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-syntax-bigint"},"options":{"compress":true},"status":301}}

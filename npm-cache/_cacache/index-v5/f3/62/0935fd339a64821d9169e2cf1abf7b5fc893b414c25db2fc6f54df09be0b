@@ -1,0 +1,2 @@
+
+1995c9e4d915436176eda84928ae037c83d523a5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@webassemblyjs%2fwasm-gen","integrity":null,"time":1755251825362,"size":"262","metadata":{"time":1755251825362,"url":"http://registry.npm.taobao.org/@webassemblyjs%2fwasm-gen","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/@webassemblyjs%2fwasm-gen"},"options":{"compress":true},"status":301}}

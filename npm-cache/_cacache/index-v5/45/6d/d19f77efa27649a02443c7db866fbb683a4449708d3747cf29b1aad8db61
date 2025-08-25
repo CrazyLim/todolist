@@ -1,0 +1,2 @@
+
+2f1dfe717e104a9be9915370cadf6e791c940590	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/canvas","integrity":null,"time":1755251817775,"size":"262","metadata":{"time":1755251817775,"url":"http://registry.npm.taobao.org/canvas","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:57 GMT","location":"https://registry.npmmirror.com/canvas"},"options":{"compress":true},"status":301}}

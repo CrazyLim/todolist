@@ -1,0 +1,2 @@
+
+5801cc439086924ec8540e7220411001710f1add	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sprintf-js","integrity":null,"time":1755251818958,"size":"262","metadata":{"time":1755251818958,"url":"http://registry.npm.taobao.org/sprintf-js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/sprintf-js"},"options":{"compress":true},"status":301}}

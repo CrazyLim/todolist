@@ -1,0 +1,2 @@
+
+0500ea27f902ae021f8793c43e9c448ba8c03169	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-regexp","integrity":null,"time":1755251829171,"size":"262","metadata":{"time":1755251829171,"url":"http://registry.npm.taobao.org/is-regexp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/is-regexp"},"options":{"compress":true},"status":301}}

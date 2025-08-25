@@ -1,0 +1,2 @@
+
+b8a2476786d32608a5291e18a218f551bdb33ed4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-weakset","integrity":null,"time":1755251828357,"size":"262","metadata":{"time":1755251828357,"url":"http://registry.npm.taobao.org/is-weakset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/is-weakset"},"options":{"compress":true},"status":301}}

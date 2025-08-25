@@ -1,0 +1,2 @@
+
+7033d190f53d4755d881c30d2d64382458254983	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-overflow-shorthand","integrity":null,"time":1755251791874,"size":"262","metadata":{"time":1755251791874,"url":"http://registry.npm.taobao.org/postcss-overflow-shorthand","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:31 GMT","location":"https://registry.npmmirror.com/postcss-overflow-shorthand"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+15fd5fabdadb482d4d65ce7a6018fd38f86ec9e3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-recipes","integrity":null,"time":1755251828615,"size":"262","metadata":{"time":1755251828615,"url":"http://registry.npm.taobao.org/workbox-recipes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-recipes"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+eb4276da457fde65b40287d0cc03ae057a3e78b5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/throat","integrity":null,"time":1755251816121,"size":"262","metadata":{"time":1755251816121,"url":"http://registry.npm.taobao.org/throat","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/throat"},"options":{"compress":true},"status":301}}

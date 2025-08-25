@@ -1,0 +1,2 @@
+
+99dcb08f5326491e79f80d7835b6fb46859263df	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pirates","integrity":null,"time":1755251798398,"size":"262","metadata":{"time":1755251798398,"url":"http://registry.npm.taobao.org/pirates","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/pirates"},"options":{"compress":true},"status":301}}

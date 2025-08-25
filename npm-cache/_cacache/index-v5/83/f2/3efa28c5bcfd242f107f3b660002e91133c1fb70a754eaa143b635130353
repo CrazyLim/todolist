@@ -1,0 +1,2 @@
+
+0f8e8e611639afff373079acb0fa033468938ab1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-bom","integrity":null,"time":1755251811617,"size":"262","metadata":{"time":1755251811617,"url":"http://registry.npm.taobao.org/strip-bom","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/strip-bom"},"options":{"compress":true},"status":301}}

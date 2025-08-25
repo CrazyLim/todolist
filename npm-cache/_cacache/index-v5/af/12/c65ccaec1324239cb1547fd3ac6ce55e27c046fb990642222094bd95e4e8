@@ -1,0 +1,2 @@
+
+a094d2684a43c266270540bbb562091bc5f95d9e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cssnano-preset-default","integrity":null,"time":1755251803115,"size":"262","metadata":{"time":1755251803115,"url":"http://registry.npm.taobao.org/cssnano-preset-default","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:43 GMT","location":"https://registry.npmmirror.com/cssnano-preset-default"},"options":{"compress":true},"status":301}}

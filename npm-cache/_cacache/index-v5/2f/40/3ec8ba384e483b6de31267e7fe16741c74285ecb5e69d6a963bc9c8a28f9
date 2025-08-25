@@ -1,0 +1,2 @@
+
+8fe84a1ec728b87935a0ac8ae9abd0f5db9e4ca4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/reusify","integrity":null,"time":1755251804741,"size":"262","metadata":{"time":1755251804741,"url":"http://registry.npm.taobao.org/reusify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:44 GMT","location":"https://registry.npmmirror.com/reusify"},"options":{"compress":true},"status":301}}

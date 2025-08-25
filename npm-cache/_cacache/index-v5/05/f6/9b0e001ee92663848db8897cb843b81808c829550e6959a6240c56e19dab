@@ -1,0 +1,2 @@
+
+85746fb40fe06090d8b324c37c78c69c2df81cd9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/relateurl","integrity":null,"time":1755251813505,"size":"262","metadata":{"time":1755251813505,"url":"http://registry.npm.taobao.org/relateurl","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:53 GMT","location":"https://registry.npmmirror.com/relateurl"},"options":{"compress":true},"status":301}}

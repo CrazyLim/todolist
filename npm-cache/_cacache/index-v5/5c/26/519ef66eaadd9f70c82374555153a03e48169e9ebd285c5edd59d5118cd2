@@ -1,0 +1,2 @@
+
+2cf06614700173d51c223dbf570c1fc2d7004731	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-navigation-preload","integrity":null,"time":1755251828605,"size":"262","metadata":{"time":1755251828605,"url":"http://registry.npm.taobao.org/workbox-navigation-preload","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-navigation-preload"},"options":{"compress":true},"status":301}}

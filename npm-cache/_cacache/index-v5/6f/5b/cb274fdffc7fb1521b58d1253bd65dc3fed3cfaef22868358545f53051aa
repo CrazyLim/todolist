@@ -1,0 +1,2 @@
+
+61b4dbf0234503e6448b2ff93c273c45f7c80dc7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-transform-destructuring","integrity":null,"time":1755251795189,"size":"262","metadata":{"time":1755251795188,"url":"http://registry.npm.taobao.org/@babel%2fplugin-transform-destructuring","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-transform-destructuring"},"options":{"compress":true},"status":301}}

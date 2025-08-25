@@ -1,0 +1,2 @@
+
+2d1e7b1fce44eaa37ba41e11e62b1aaa8d883b3d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/internal-slot","integrity":null,"time":1755251811958,"size":"262","metadata":{"time":1755251811958,"url":"http://registry.npm.taobao.org/internal-slot","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/internal-slot"},"options":{"compress":true},"status":301}}

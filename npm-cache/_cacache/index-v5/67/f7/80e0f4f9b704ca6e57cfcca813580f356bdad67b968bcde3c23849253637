@@ -1,0 +1,2 @@
+
+93e2d5c158a94fde4b8588306984d11f50f60fa2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@tootallnate%2fonce","integrity":null,"time":1755251819296,"size":"262","metadata":{"time":1755251819296,"url":"http://registry.npm.taobao.org/@tootallnate%2fonce","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:59 GMT","location":"https://registry.npmmirror.com/@tootallnate%2fonce"},"options":{"compress":true},"status":301}}

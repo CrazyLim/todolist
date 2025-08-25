@@ -1,0 +1,2 @@
+
+119324a4f90d4fb810db2d506b6def4893ae436e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint-import-resolver-node","integrity":null,"time":1755251805610,"size":"262","metadata":{"time":1755251805610,"url":"http://registry.npm.taobao.org/eslint-import-resolver-node","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/eslint-import-resolver-node"},"options":{"compress":true},"status":301}}

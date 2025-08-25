@@ -1,0 +1,2 @@
+
+d4e64e00e010d6632f2f2054d97c790ed0eaaa08	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/write-file-atomic","integrity":null,"time":1755251798398,"size":"262","metadata":{"time":1755251798398,"url":"http://registry.npm.taobao.org/write-file-atomic","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/write-file-atomic"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+bfe50e9da7b12ae8a2224f42f29b4a568a44a41b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-plugin-polyfill-corejs2","integrity":null,"time":1755251795798,"size":"262","metadata":{"time":1755251795798,"url":"http://registry.npm.taobao.org/babel-plugin-polyfill-corejs2","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:35 GMT","location":"https://registry.npmmirror.com/babel-plugin-polyfill-corejs2"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4269b05f8ec986f0e04861d07b8158f44d739058	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eventemitter3","integrity":null,"time":1755251827155,"size":"262","metadata":{"time":1755251827155,"url":"http://registry.npm.taobao.org/eventemitter3","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:07 GMT","location":"https://registry.npmmirror.com/eventemitter3"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,209 @@
+.gomoku-game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.gomoku-board {
+  display: grid;
+  grid-template-columns: repeat(15, 30px);
+  grid-template-rows: repeat(15, 30px);
+  border: 2px solid #333;
+  background-color: #e6b87d;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.gomoku-row {
+  display: contents;
+}
+
+.gomoku-cell {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  border-right: 1px solid #8b5a2b;
+  border-bottom: 1px solid #8b5a2b;
+}
+
+/* 最后一行和最后一列不加边框 */
+.gomoku-cell:nth-child(15n) {
+  border-right: none;
+}
+
+.gomoku-row:last-child .gomoku-cell {
+  border-bottom: none;
+}
+
+/* 添加棋盘上的标记点 */
+.gomoku-cell:nth-child(4n+2):nth-child(-n+13),
+.gomoku-cell:nth-child(4n+2):nth-child(n+61),
+.gomoku-cell:nth-child(4n+2):nth-child(n+119) {
+  position: relative;
+}
+
+.gomoku-cell:nth-child(4n+2):nth-child(-n+13)::after,
+.gomoku-cell:nth-child(4n+2):nth-child(n+61)::after,
+.gomoku-cell:nth-child(4n+2):nth-child(n+119)::after {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background-color: #000;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.gomoku-stone {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 2;
+}
+
+.gomoku-stone.black {
+  background-color: #000;
+}
+
+.gomoku-stone.white {
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.reset-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.reset-btn:hover {
+  background-color: #0b7dda;
+}
+
+.game-info {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.game-rules {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  max-width: 400px;
+}
+
+.game-rules h4 {
+  margin-top: 0;
+  color: #333;
+}
+
+.game-rules ol {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+.game-rules li {
+  margin-bottom: 5px;
+  color: #666;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .gomoku-board {
+    grid-template-columns: repeat(15, 25px);
+    grid-template-rows: repeat(15, 25px);
+  }
+  
+  .gomoku-cell {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .gomoku-stone {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* 游戏模式选择样式 */
+.game-mode-selection {
+  text-align: center;
+  padding: 30px;
+  max-width: 400px;
+}
+
+.mode-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.mode-btn {
+  padding: 15px 30px;
+  font-size: 18px;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 200px;
+}
+
+.mode-btn:hover {
+  background-color: #0b7dda;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mode-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* 游戏头部信息 */
+.game-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.player-role {
+  font-size: 16px;
+  color: #666;
+  font-weight: 500;
+}
+
+/* 移动端适配游戏模式选择 */
+@media (max-width: 480px) {
+  .game-mode-selection {
+    padding: 20px 10px;
+  }
+  
+  .mode-btn {
+    padding: 12px 20px;
+    font-size: 16px;
+    min-width: 160px;
+  }
+}

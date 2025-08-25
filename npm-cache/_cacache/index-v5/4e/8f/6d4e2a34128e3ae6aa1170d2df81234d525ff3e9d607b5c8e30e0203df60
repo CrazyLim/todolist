@@ -1,0 +1,2 @@
+
+3c78d44c35b0cd2e4e62e6e31f171b9b01f60a5b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-expiration","integrity":null,"time":1755251828588,"size":"262","metadata":{"time":1755251828588,"url":"http://registry.npm.taobao.org/workbox-expiration","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-expiration"},"options":{"compress":true},"status":301}}

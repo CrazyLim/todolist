@@ -1,0 +1,2 @@
+
+372205d412a7680490d2af6367d12996bf186327	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/babel-loader","integrity":null,"time":1755251782636,"size":"262","metadata":{"time":1755251782636,"url":"http://registry.npm.taobao.org/babel-loader","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:22 GMT","location":"https://registry.npmmirror.com/babel-loader"},"options":{"compress":true},"status":301}}

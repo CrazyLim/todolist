@@ -1,0 +1,2 @@
+
+0fade8d26c0c9e2ff758b3156032605908b6de05	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-core","integrity":null,"time":1755251828588,"size":"262","metadata":{"time":1755251828588,"url":"http://registry.npm.taobao.org/workbox-core","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-core"},"options":{"compress":true},"status":301}}

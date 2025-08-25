@@ -1,0 +1,2 @@
+
+c48b26c87df6f31495b157474577b1179b597172	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pretty-error","integrity":null,"time":1755251790718,"size":"262","metadata":{"time":1755251790718,"url":"http://registry.npm.taobao.org/pretty-error","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/pretty-error"},"options":{"compress":true},"status":301}}

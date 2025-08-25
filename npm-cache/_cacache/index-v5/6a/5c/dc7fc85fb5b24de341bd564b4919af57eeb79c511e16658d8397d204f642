@@ -1,0 +1,2 @@
+
+b100bfd66ab7910432a14eb5528251de78a7978d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-proposal-decorators","integrity":null,"time":1755251789158,"size":"262","metadata":{"time":1755251789158,"url":"http://registry.npm.taobao.org/@babel%2fplugin-proposal-decorators","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:29 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-proposal-decorators"},"options":{"compress":true},"status":301}}

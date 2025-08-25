@@ -1,0 +1,2 @@
+
+9e82866560d9173801066fb28f09bc0f1dbecc72	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hpack.js","integrity":null,"time":1755251827531,"size":"262","metadata":{"time":1755251827531,"url":"http://registry.npm.taobao.org/hpack.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:07 GMT","location":"https://registry.npmmirror.com/hpack.js"},"options":{"compress":true},"status":301}}

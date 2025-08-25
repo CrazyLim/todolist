@@ -1,0 +1,2 @@
+
+8b4ef3c4797bd8bcc0e720531bb0d599e41bad67	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/rollup-plugin-terser","integrity":null,"time":1755251828461,"size":"262","metadata":{"time":1755251828460,"url":"http://registry.npm.taobao.org/rollup-plugin-terser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/rollup-plugin-terser"},"options":{"compress":true},"status":301}}

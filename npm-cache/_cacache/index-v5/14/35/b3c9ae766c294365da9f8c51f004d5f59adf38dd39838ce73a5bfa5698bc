@@ -1,0 +1,2 @@
+
+759c76fdc689442406be20c11857df813b4ece74	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/esprima","integrity":null,"time":1755251800285,"size":"262","metadata":{"time":1755251800285,"url":"http://registry.npm.taobao.org/esprima","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/esprima"},"options":{"compress":true},"status":301}}

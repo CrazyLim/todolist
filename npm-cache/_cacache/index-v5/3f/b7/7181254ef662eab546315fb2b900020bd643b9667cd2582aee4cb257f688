@@ -1,0 +1,2 @@
+
+90fba67c3a52f5bf3ec551721063a39aad218b11	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/walker","integrity":null,"time":1755251799005,"size":"262","metadata":{"time":1755251799005,"url":"http://registry.npm.taobao.org/walker","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/walker"},"options":{"compress":true},"status":301}}

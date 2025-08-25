@@ -1,0 +1,2 @@
+
+80c5fab9695252ce3d2edac86bd5f7e5b8530f73	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-runtime","integrity":null,"time":1755251814337,"size":"262","metadata":{"time":1755251814336,"url":"http://registry.npm.taobao.org/jest-runtime","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:54 GMT","location":"https://registry.npmmirror.com/jest-runtime"},"options":{"compress":true},"status":301}}

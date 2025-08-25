@@ -1,0 +1,2 @@
+
+8f71b3a7409f59d64e84574cd55edeaa7ecbff00	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/react-app-polyfill","integrity":null,"time":1755251783216,"size":"262","metadata":{"time":1755251783216,"url":"http://registry.npm.taobao.org/react-app-polyfill","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:23 GMT","location":"https://registry.npmmirror.com/react-app-polyfill"},"options":{"compress":true},"status":301}}

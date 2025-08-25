@@ -1,0 +1,2 @@
+
+c7e83642a4625fa62bd330f3ccf0e168bb36e843	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/locate-path","integrity":null,"time":1755251800286,"size":"262","metadata":{"time":1755251800286,"url":"http://registry.npm.taobao.org/locate-path","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/locate-path"},"options":{"compress":true},"status":301}}

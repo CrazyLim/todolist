@@ -1,0 +1,2 @@
+
+9ef0850fed5c78fe103304e321982122f87fb9a9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/webpack-dev-middleware","integrity":null,"time":1755251793173,"size":"262","metadata":{"time":1755251793173,"url":"http://registry.npm.taobao.org/webpack-dev-middleware","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:33 GMT","location":"https://registry.npmmirror.com/webpack-dev-middleware"},"options":{"compress":true},"status":301}}

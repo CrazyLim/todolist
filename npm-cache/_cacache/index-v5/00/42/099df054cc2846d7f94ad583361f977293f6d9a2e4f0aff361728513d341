@@ -1,0 +1,2 @@
+
+613abbcedb5537d3330fb9a5b2f975db20b39e91	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/es-define-property","integrity":null,"time":1755251811792,"size":"262","metadata":{"time":1755251811792,"url":"http://registry.npm.taobao.org/es-define-property","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/es-define-property"},"options":{"compress":true},"status":301}}

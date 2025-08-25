@@ -1,0 +1,2 @@
+
+6a43412cb61d0a1c27fa0efe01251c5af0cc4502	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2fresolve-uri","integrity":null,"time":1755251794636,"size":"262","metadata":{"time":1755251794636,"url":"http://registry.npm.taobao.org/@jridgewell%2fresolve-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:34 GMT","location":"https://registry.npmmirror.com/@jridgewell%2fresolve-uri"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+383d1c0831020256996e54eb409a20d097005d77	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/html-webpack-plugin","integrity":null,"time":1755251782996,"size":"262","metadata":{"time":1755251782996,"url":"http://registry.npm.taobao.org/html-webpack-plugin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:22 GMT","location":"https://registry.npmmirror.com/html-webpack-plugin"},"options":{"compress":true},"status":301}}

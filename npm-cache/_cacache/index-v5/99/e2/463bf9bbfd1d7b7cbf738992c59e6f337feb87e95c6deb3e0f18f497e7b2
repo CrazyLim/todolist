@@ -1,0 +1,2 @@
+
+5d527e2b291d7294e8859400f7f2ed4199db8129	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@istanbuljs%2fload-nyc-config","integrity":null,"time":1755251798405,"size":"262","metadata":{"time":1755251798405,"url":"http://registry.npm.taobao.org/@istanbuljs%2fload-nyc-config","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/@istanbuljs%2fload-nyc-config"},"options":{"compress":true},"status":301}}

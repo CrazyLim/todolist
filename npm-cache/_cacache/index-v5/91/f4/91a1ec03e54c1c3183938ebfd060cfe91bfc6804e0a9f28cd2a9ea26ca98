@@ -1,0 +1,2 @@
+
+6b5aa173093e521fd0d37e1e04fedacda61d861f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/import-local","integrity":null,"time":1755251790772,"size":"262","metadata":{"time":1755251790772,"url":"http://registry.npm.taobao.org/import-local","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/import-local"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+138a4a3a36777eea0b17539212495dd19d9cc237	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fpreset-react","integrity":null,"time":1755251788951,"size":"262","metadata":{"time":1755251788951,"url":"http://registry.npm.taobao.org/@babel%2fpreset-react","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:28 GMT","location":"https://registry.npmmirror.com/@babel%2fpreset-react"},"options":{"compress":true},"status":301}}

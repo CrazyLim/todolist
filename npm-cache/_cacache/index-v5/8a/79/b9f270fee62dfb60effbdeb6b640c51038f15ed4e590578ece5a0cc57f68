@@ -1,0 +1,2 @@
+
+1cd6c36f88589b36d692b06ac83aaff29adb0641	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/data-view-byte-offset","integrity":null,"time":1755251811860,"size":"262","metadata":{"time":1755251811860,"url":"http://registry.npm.taobao.org/data-view-byte-offset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:51 GMT","location":"https://registry.npmmirror.com/data-view-byte-offset"},"options":{"compress":true},"status":301}}

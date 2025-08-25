@@ -1,0 +1,2 @@
+
+4c3209786c90f3c974b6850f59a098a60c32ec07	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/utila","integrity":null,"time":1755251822739,"size":"262","metadata":{"time":1755251822739,"url":"http://registry.npm.taobao.org/utila","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/utila"},"options":{"compress":true},"status":301}}

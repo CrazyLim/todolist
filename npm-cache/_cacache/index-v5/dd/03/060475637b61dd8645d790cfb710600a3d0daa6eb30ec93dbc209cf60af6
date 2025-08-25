@@ -1,0 +1,2 @@
+
+e304d4d0eabdf6315417f28de4c7ff7a7f98a343	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/whatwg-url","integrity":null,"time":1755251818226,"size":"262","metadata":{"time":1755251818226,"url":"http://registry.npm.taobao.org/whatwg-url","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:58 GMT","location":"https://registry.npmmirror.com/whatwg-url"},"options":{"compress":true},"status":301}}

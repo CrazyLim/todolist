@@ -1,0 +1,2 @@
+
+3d894972d9e6a658e3614158720bc32ad54055bc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@istanbuljs%2fschema","integrity":null,"time":1755251798408,"size":"262","metadata":{"time":1755251798408,"url":"http://registry.npm.taobao.org/@istanbuljs%2fschema","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/@istanbuljs%2fschema"},"options":{"compress":true},"status":301}}

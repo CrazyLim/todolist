@@ -1,0 +1,2 @@
+
+b9193ce534c18e72e7a3fb7900c43f132224833b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-util","integrity":null,"time":1755251790830,"size":"262","metadata":{"time":1755251790830,"url":"http://registry.npm.taobao.org/jest-util","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/jest-util"},"options":{"compress":true},"status":301}}

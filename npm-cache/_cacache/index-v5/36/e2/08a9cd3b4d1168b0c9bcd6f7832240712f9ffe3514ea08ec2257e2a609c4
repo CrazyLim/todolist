@@ -1,0 +1,2 @@
+
+2200a3d9b06e5665cb1f52f3afb175dce46e9456	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yocto-queue","integrity":null,"time":1755251830604,"size":"262","metadata":{"time":1755251830604,"url":"http://registry.npm.taobao.org/yocto-queue","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:10 GMT","location":"https://registry.npmmirror.com/yocto-queue"},"options":{"compress":true},"status":301}}

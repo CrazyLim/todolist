@@ -1,0 +1,2 @@
+
+3ac850ea4e047d04e2372aee2e08472b658efa45	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/vary","integrity":null,"time":1755251825831,"size":"262","metadata":{"time":1755251825831,"url":"http://registry.npm.taobao.org/vary","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:05 GMT","location":"https://registry.npmmirror.com/vary"},"options":{"compress":true},"status":301}}

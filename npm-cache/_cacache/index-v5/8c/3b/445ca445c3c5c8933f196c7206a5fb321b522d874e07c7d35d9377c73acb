@@ -1,0 +1,2 @@
+
+0bb4389f57704752ac0d57d3f9bcf82a4d6b3539	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2fhtml-minifier-terser","integrity":null,"time":1755251790667,"size":"262","metadata":{"time":1755251790667,"url":"http://registry.npm.taobao.org/@types%2fhtml-minifier-terser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/@types%2fhtml-minifier-terser"},"options":{"compress":true},"status":301}}

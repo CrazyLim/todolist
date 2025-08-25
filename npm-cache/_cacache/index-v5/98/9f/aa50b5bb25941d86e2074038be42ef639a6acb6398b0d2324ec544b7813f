@@ -1,0 +1,2 @@
+
+45151c4bc5887c3e29c470e956fb0d3466218c52	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-bigint","integrity":null,"time":1755251824817,"size":"262","metadata":{"time":1755251824817,"url":"http://registry.npm.taobao.org/is-bigint","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/is-bigint"},"options":{"compress":true},"status":301}}

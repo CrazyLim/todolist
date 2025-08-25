@@ -1,0 +1,2 @@
+
+7b62d31fd531d0c4183b7b9ec83a21d27be3183d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-google-analytics","integrity":null,"time":1755251828599,"size":"262","metadata":{"time":1755251828599,"url":"http://registry.npm.taobao.org/workbox-google-analytics","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-google-analytics"},"options":{"compress":true},"status":301}}

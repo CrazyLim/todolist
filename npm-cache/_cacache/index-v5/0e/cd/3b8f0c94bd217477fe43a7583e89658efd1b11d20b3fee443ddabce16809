@@ -1,0 +1,2 @@
+
+66742a3c3bdaf1bb6f3619d0c7e5edce0cb285a2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-extglob","integrity":null,"time":1755251804406,"size":"262","metadata":{"time":1755251804406,"url":"http://registry.npm.taobao.org/is-extglob","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:44 GMT","location":"https://registry.npmmirror.com/is-extglob"},"options":{"compress":true},"status":301}}

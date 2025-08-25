@@ -1,0 +1,2 @@
+
+8ec6fc209bd859409224397f241924a0f118996c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/word-wrap","integrity":null,"time":1755251804434,"size":"262","metadata":{"time":1755251804434,"url":"http://registry.npm.taobao.org/word-wrap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:44 GMT","location":"https://registry.npmmirror.com/word-wrap"},"options":{"compress":true},"status":301}}

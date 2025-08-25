@@ -1,0 +1,2 @@
+
+1e245ea17b8f9d172e3418ed9ad70c535e0b9682	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jest-haste-map","integrity":null,"time":1755251790814,"size":"262","metadata":{"time":1755251790814,"url":"http://registry.npm.taobao.org/jest-haste-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/jest-haste-map"},"options":{"compress":true},"status":301}}

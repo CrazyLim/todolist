@@ -1,0 +1,2 @@
+
+42986b1aa7d4624c435520b5d215ff9865edd988	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/balanced-match","integrity":null,"time":1755251820127,"size":"262","metadata":{"time":1755251820127,"url":"http://registry.npm.taobao.org/balanced-match","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:00 GMT","location":"https://registry.npmmirror.com/balanced-match"},"options":{"compress":true},"status":301}}

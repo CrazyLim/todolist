@@ -1,0 +1,2 @@
+
+3fd8b9f20ad26627cf88f0565e8861953ffe49f3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rspack%2fcore","integrity":null,"time":1755251786542,"size":"262","metadata":{"time":1755251786542,"url":"http://registry.npm.taobao.org/@rspack%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:26 GMT","location":"https://registry.npmmirror.com/@rspack%2fcore"},"options":{"compress":true},"status":301}}

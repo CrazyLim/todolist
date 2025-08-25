@@ -1,0 +1,2 @@
+
+fc1a0b9011594444501edc79e90277571b2e0191	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/terser","integrity":null,"time":1755251792630,"size":"262","metadata":{"time":1755251792630,"url":"http://registry.npm.taobao.org/terser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/terser"},"options":{"compress":true},"status":301}}

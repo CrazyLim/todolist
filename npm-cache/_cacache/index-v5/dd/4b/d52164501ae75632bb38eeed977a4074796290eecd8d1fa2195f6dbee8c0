@@ -1,0 +1,2 @@
+
+5742cd32c0b8485e5dcae7177cd1076f3069897d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rollup%2fplugin-replace","integrity":null,"time":1755251828466,"size":"262","metadata":{"time":1755251828466,"url":"http://registry.npm.taobao.org/@rollup%2fplugin-replace","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/@rollup%2fplugin-replace"},"options":{"compress":true},"status":301}}

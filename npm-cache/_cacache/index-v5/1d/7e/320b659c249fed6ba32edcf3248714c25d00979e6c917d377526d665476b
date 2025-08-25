@@ -1,0 +1,2 @@
+
+10b54131599530d0c983ed25d6d0775d974b384e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/signal-exit","integrity":null,"time":1755251799006,"size":"262","metadata":{"time":1755251799006,"url":"http://registry.npm.taobao.org/signal-exit","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:38 GMT","location":"https://registry.npmmirror.com/signal-exit"},"options":{"compress":true},"status":301}}

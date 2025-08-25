@@ -1,0 +1,2 @@
+
+5b9ab7355f32760947f91b7e99a10dd346e8c952	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/requires-port","integrity":null,"time":1755251824302,"size":"262","metadata":{"time":1755251824302,"url":"http://registry.npm.taobao.org/requires-port","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/requires-port"},"options":{"compress":true},"status":301}}

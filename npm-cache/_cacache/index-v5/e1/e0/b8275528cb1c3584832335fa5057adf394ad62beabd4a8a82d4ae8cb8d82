@@ -1,0 +1,2 @@
+
+f4b997440b9a5f095d27db9f9dcb0c805743ea05	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/shebang-command","integrity":null,"time":1755251804327,"size":"262","metadata":{"time":1755251804327,"url":"http://registry.npm.taobao.org/shebang-command","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:44 GMT","location":"https://registry.npmmirror.com/shebang-command"},"options":{"compress":true},"status":301}}

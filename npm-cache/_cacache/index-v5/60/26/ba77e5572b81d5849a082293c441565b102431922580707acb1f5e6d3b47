@@ -1,0 +1,2 @@
+
+169811dd43848e65c6ec23b988c6182cc0414ec4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/define-lazy-prop","integrity":null,"time":1755251822119,"size":"262","metadata":{"time":1755251822119,"url":"http://registry.npm.taobao.org/define-lazy-prop","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:02 GMT","location":"https://registry.npmmirror.com/define-lazy-prop"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+21c7adcb723e0e79598db4c553599b7b00bb0a2f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/package-json-from-dist","integrity":null,"time":1755251823829,"size":"262","metadata":{"time":1755251823829,"url":"http://registry.npm.taobao.org/package-json-from-dist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/package-json-from-dist"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+d059820012d600e411678030e04621e2e7db1523	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-nested","integrity":null,"time":1755251792533,"size":"262","metadata":{"time":1755251792533,"url":"http://registry.npm.taobao.org/postcss-nested","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:32 GMT","location":"https://registry.npmmirror.com/postcss-nested"},"options":{"compress":true},"status":301}}

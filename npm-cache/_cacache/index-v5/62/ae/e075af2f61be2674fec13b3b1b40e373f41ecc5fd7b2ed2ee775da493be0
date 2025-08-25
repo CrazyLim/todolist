@@ -1,0 +1,2 @@
+
+6d657fdc6f8a3f63ac9c6be2553ba9b410a10f22	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cjs-module-lexer","integrity":null,"time":1755251816406,"size":"262","metadata":{"time":1755251816406,"url":"http://registry.npm.taobao.org/cjs-module-lexer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/cjs-module-lexer"},"options":{"compress":true},"status":301}}

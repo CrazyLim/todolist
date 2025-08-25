@@ -1,0 +1,2 @@
+
+e65a6bade32df97a86fad52f39082a31d6aec690	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-background-sync","integrity":null,"time":1755251828561,"size":"262","metadata":{"time":1755251828561,"url":"http://registry.npm.taobao.org/workbox-background-sync","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-background-sync"},"options":{"compress":true},"status":301}}

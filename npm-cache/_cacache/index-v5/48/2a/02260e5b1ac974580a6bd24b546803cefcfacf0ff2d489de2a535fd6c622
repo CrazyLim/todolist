@@ -1,0 +1,2 @@
+
+27c6d2292ad9d38e718cb2c33902e6bf7ac216e2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/stack-utils","integrity":null,"time":1755251816275,"size":"262","metadata":{"time":1755251816275,"url":"http://registry.npm.taobao.org/stack-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/stack-utils"},"options":{"compress":true},"status":301}}

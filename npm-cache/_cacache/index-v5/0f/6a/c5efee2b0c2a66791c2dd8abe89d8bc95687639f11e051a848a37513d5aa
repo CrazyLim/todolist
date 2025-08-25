@@ -1,0 +1,2 @@
+
+4ed30f63871e73171427c1a22f4408f49f499ce3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unbox-primitive","integrity":null,"time":1755251812205,"size":"262","metadata":{"time":1755251812205,"url":"http://registry.npm.taobao.org/unbox-primitive","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/unbox-primitive"},"options":{"compress":true},"status":301}}

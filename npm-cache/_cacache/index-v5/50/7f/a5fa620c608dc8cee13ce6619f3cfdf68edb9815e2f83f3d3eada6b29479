@@ -1,0 +1,2 @@
+
+8312f02f9856ebcb81b370c894ed3554fbda2ce4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/foreground-child","integrity":null,"time":1755251823826,"size":"262","metadata":{"time":1755251823826,"url":"http://registry.npm.taobao.org/foreground-child","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/foreground-child"},"options":{"compress":true},"status":301}}

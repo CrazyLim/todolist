@@ -1,0 +1,2 @@
+
+6798418a93c9e2c32381586bbd84ed5aff03aa07	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-obj","integrity":null,"time":1755251829168,"size":"262","metadata":{"time":1755251829168,"url":"http://registry.npm.taobao.org/is-obj","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:09 GMT","location":"https://registry.npmmirror.com/is-obj"},"options":{"compress":true},"status":301}}

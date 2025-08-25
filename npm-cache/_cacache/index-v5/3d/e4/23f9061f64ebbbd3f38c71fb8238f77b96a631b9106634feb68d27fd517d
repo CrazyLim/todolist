@@ -1,0 +1,2 @@
+
+e163d1c4ef95c20748ada6c94ea742afa654a442	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-path-inside","integrity":null,"time":1755251790101,"size":"262","metadata":{"time":1755251790101,"url":"http://registry.npm.taobao.org/is-path-inside","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/is-path-inside"},"options":{"compress":true},"status":301}}

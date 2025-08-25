@@ -1,0 +1,2 @@
+
+286c598ed5e2013a36c4f58effcd0ef5db99397e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mini-css-extract-plugin","integrity":null,"time":1755251783117,"size":"262","metadata":{"time":1755251783117,"url":"http://registry.npm.taobao.org/mini-css-extract-plugin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:23 GMT","location":"https://registry.npmmirror.com/mini-css-extract-plugin"},"options":{"compress":true},"status":301}}

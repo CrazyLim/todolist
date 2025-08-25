@@ -1,0 +1,2 @@
+
+55c14b9e35077cb98b0ca6422f48a96d049b985c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/upath","integrity":null,"time":1755251793244,"size":"262","metadata":{"time":1755251793244,"url":"http://registry.npm.taobao.org/upath","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:33 GMT","location":"https://registry.npmmirror.com/upath"},"options":{"compress":true},"status":301}}

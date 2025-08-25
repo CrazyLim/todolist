@@ -1,0 +1,2 @@
+
+18a1e395adb1302af6d70aa26aba3c902ba3ab38	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ast-types-flow","integrity":null,"time":1755251805998,"size":"262","metadata":{"time":1755251805998,"url":"http://registry.npm.taobao.org/ast-types-flow","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:45 GMT","location":"https://registry.npmmirror.com/ast-types-flow"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+511a326a8a50bb6b588226c8fb7ed70ba8ef361c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/regexp.prototype.flags","integrity":null,"time":1755251812105,"size":"262","metadata":{"time":1755251812105,"url":"http://registry.npm.taobao.org/regexp.prototype.flags","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:52 GMT","location":"https://registry.npmmirror.com/regexp.prototype.flags"},"options":{"compress":true},"status":301}}

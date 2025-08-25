@@ -1,0 +1,2 @@
+
+e2627fe61cc91079ba8c7d1b03b06a8d56bdf303	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/istanbul-lib-coverage","integrity":null,"time":1755251800176,"size":"262","metadata":{"time":1755251800176,"url":"http://registry.npm.taobao.org/istanbul-lib-coverage","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/istanbul-lib-coverage"},"options":{"compress":true},"status":301}}

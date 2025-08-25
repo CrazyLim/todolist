@@ -1,0 +1,2 @@
+
+4f0c87ee3b546d0bd4f665cfa8f030c507da4bfc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/v8-to-istanbul","integrity":null,"time":1755251816118,"size":"262","metadata":{"time":1755251816118,"url":"http://registry.npm.taobao.org/v8-to-istanbul","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:56 GMT","location":"https://registry.npmmirror.com/v8-to-istanbul"},"options":{"compress":true},"status":301}}

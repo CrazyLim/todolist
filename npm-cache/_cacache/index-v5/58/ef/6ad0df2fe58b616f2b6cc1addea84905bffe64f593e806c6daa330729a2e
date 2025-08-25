@@ -1,0 +1,2 @@
+
+d9f4c37c4ea662161f67e12cfd4df170224d0b92	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/path-scurry","integrity":null,"time":1755251823829,"size":"262","metadata":{"time":1755251823829,"url":"http://registry.npm.taobao.org/path-scurry","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/path-scurry"},"options":{"compress":true},"status":301}}

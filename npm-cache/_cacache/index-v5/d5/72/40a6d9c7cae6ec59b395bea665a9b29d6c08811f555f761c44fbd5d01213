@@ -1,0 +1,2 @@
+
+9b69b9fd1a4052ef58a863604016f631f5bd0f35	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/workbox-broadcast-update","integrity":null,"time":1755251828582,"size":"262","metadata":{"time":1755251828581,"url":"http://registry.npm.taobao.org/workbox-broadcast-update","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:08 GMT","location":"https://registry.npmmirror.com/workbox-broadcast-update"},"options":{"compress":true},"status":301}}

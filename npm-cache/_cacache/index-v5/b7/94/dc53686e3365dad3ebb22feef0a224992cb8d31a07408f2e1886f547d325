@@ -1,0 +1,2 @@
+
+ff76b845b210740120f3b36cdb7c6ba220d89159	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fplugin-syntax-async-generators","integrity":null,"time":1755251800490,"size":"262","metadata":{"time":1755251800489,"url":"http://registry.npm.taobao.org/@babel%2fplugin-syntax-async-generators","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:40 GMT","location":"https://registry.npmmirror.com/@babel%2fplugin-syntax-async-generators"},"options":{"compress":true},"status":301}}

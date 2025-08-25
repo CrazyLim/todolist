@@ -1,0 +1,2 @@
+
+2771c6df9116102658c783feaea2f9156d2fb87e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@swc%2fwasm","integrity":null,"time":1755251815616,"size":"262","metadata":{"time":1755251815616,"url":"http://registry.npm.taobao.org/@swc%2fwasm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:55 GMT","location":"https://registry.npmmirror.com/@swc%2fwasm"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a84cedcd2580877ca1b9af3a9deff7f18ae04830	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-arrayish","integrity":null,"time":1755251820908,"size":"262","metadata":{"time":1755251820908,"url":"http://registry.npm.taobao.org/is-arrayish","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:00 GMT","location":"https://registry.npmmirror.com/is-arrayish"},"options":{"compress":true},"status":301}}

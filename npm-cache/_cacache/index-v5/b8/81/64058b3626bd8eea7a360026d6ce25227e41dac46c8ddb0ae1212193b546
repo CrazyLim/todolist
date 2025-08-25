@@ -1,0 +1,2 @@
+
+fae663d7e00a379fa3527d39808ee3ac42d45c57	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-finalizationregistry","integrity":null,"time":1755251824487,"size":"262","metadata":{"time":1755251824487,"url":"http://registry.npm.taobao.org/is-finalizationregistry","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:04 GMT","location":"https://registry.npmmirror.com/is-finalizationregistry"},"options":{"compress":true},"status":301}}

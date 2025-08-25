@@ -1,0 +1,2 @@
+
+d130e36a53f8407ba071e7f362da4080aa7c48ee	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rushstack%2feslint-patch","integrity":null,"time":1755251790232,"size":"262","metadata":{"time":1755251790232,"url":"http://registry.npm.taobao.org/@rushstack%2feslint-patch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:30 GMT","location":"https://registry.npmmirror.com/@rushstack%2feslint-patch"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+af05020053ab929db5aeafc2109d6fece90a513b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/language-tags","integrity":null,"time":1755251806147,"size":"262","metadata":{"time":1755251806147,"url":"http://registry.npm.taobao.org/language-tags","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:56:46 GMT","location":"https://registry.npmmirror.com/language-tags"},"options":{"compress":true},"status":301}}

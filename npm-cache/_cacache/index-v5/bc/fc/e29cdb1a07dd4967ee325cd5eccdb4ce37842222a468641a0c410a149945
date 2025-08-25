@@ -1,0 +1,2 @@
+
+131ae380db2396728b3f808be9e8320dce05fe24	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/camelcase-css","integrity":null,"time":1755251823548,"size":"262","metadata":{"time":1755251823548,"url":"http://registry.npm.taobao.org/camelcase-css","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 15 Aug 2025 09:57:03 GMT","location":"https://registry.npmmirror.com/camelcase-css"},"options":{"compress":true},"status":301}}
