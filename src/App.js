@@ -1,5 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import TravelPlan from './components/TravelPlan';
+import GuessNumberGame from './components/GuessNumberGame';
+import Game2048 from './components/Game2048';
+import SnakeGame from './components/SnakeGame';
+import ClockWeatherWidget from './components/ClockWeatherWidget';
+
 import './App.css';
 
 function App() {
@@ -18,7 +23,10 @@ function App() {
   
   // 页面状态 - 将旅游计划设置为首页默认展示
   const [activePage, setActivePage] = useState('travel');
-  
+
+  // 游戏状态
+  const [selectedGame, setSelectedGame] = useState(null);
+
   // 笑话列表状态
   const [jokes, setJokes] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -332,6 +340,16 @@ function App() {
           >
             ✈️ 旅游计划
           </button>
+           <button 
+            className={`sidebar-btn ${activePage === 'games' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('games');
+              closeMobileMenu();
+            }}
+            aria-label="游戏中心页面"
+          >
+            🎮 游戏中心
+          </button>
           <button 
             className={`sidebar-btn ${activePage === 'jokes' ? 'active' : ''}`}
             onClick={() => {
@@ -352,7 +370,7 @@ function App() {
           >
             📝 任务列表
           </button>
-          <button 
+          {/* <button 
             className={`sidebar-btn ${activePage === 'analytics' ? 'active' : ''}`}
             onClick={() => {
               setActivePage('analytics');
@@ -361,54 +379,16 @@ function App() {
             aria-label="数据分析页面"
           >
             📊 数据分析
-          </button>
-          <button 
-            className={`sidebar-btn ${activePage === 'games' ? 'active' : ''}`}
-            onClick={() => {
-              setActivePage('games');
-              closeMobileMenu();
-            }}
-            aria-label="游戏中心页面"
-          >
-            🎮 游戏中心
-          </button>
-         
+          </button> */}
         </nav>
       </div>
       
-      {/* 顶部导航栏 - 优化样式 */}
-      <div className="nav-buttons-with-user">
-        <div className="nav-buttons">
-           <button 
-            className={`nav-btn ${activePage === 'travel' ? 'active' : ''}`}
-            onClick={() => setActivePage('travel')}
-          >
-            ✈️ 旅游
-          </button>
-          <button 
-            className={`nav-btn ${activePage === 'jokes' ? 'active' : ''}`}
-            onClick={() => setActivePage('jokes')}
-          >
-            😄 笑话
-          </button>
-          <button 
-            className={`nav-btn ${activePage === 'tasks' ? 'active' : ''}`}
-            onClick={() => setActivePage('tasks')}
-          >
-            📝 任务
-          </button>
-          <button 
-            className={`nav-btn ${activePage === 'analytics' ? 'active' : ''}`}
-            onClick={() => setActivePage('analytics')}
-          >
-            📊 分析
-          </button>
-          <button className={`nav-btn ${activePage === 'games' ? 'active' : ''}`}onClick={() => setActivePage('games')}>
-            🎮 游戏
-          </button>
+      {/* 顶部信息栏：时间、天气和用户信息 */}
+      <div className="top-info-bar">
+        <div className="time-weather-container">
+          <ClockWeatherWidget />
         </div>
-        
-        <div className="user-info">
+        <div className="user-info-simple">
           {isLoggedIn ? (
             <div className="user-info-details">
               <span className="user-email">
@@ -559,14 +539,17 @@ function App() {
           <div className="games-container">
             <h2>🎮 游戏中心</h2>
             <div className="game-selection">
-              <button className="game-btn">猜数字</button>
-              <button className="game-btn">2048</button>
-              <button className="game-btn">贪吃蛇</button>
-              <button className="game-btn">俄罗斯方块</button>
+              <button className="game-btn" onClick={() => setSelectedGame('guessNumber')}>猜数字</button>
+              <button className="game-btn" onClick={() => setSelectedGame('2048')}>2048</button>
+              <button className="game-btn" onClick={() => setSelectedGame('snake')}>贪吃蛇</button>
             </div>
+
             <div className="game-wrapper">
-              <p>请选择一个游戏开始玩吧！</p>
-            </div>
+                {selectedGame === 'guessNumber' && <GuessNumberGame />}
+                {selectedGame === '2048' && <Game2048 />}
+                {selectedGame === 'snake' && <SnakeGame />}
+                {!selectedGame && <p>请选择一个游戏开始玩吧！</p>}
+              </div>
           </div>
         )}
         

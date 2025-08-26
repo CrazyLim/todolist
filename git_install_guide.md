@@ -47,5 +47,13 @@ git config --global user.email "your.email@example.com"
 # 查看配置
 git config --list
 ```
+# 将修改添加到暂存区
+git add .          
+
+# 提交到本地仓库
+git commit -m "提交信息" 
+
+# 推送到远程仓库（因为之前用了 -u，这里就不用再写 origin main 了）
+git push           
 
 更多详细信息，请参考Git官方文档：<mcurl name="Git Documentation" url="https://git-scm.com/doc"></mcurl>
