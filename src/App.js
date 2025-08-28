@@ -4,6 +4,8 @@ import GuessNumberGame from './components/GuessNumberGame';
 import Game2048 from './components/Game2048';
 import SnakeGame from './components/SnakeGame';
 import ClockWeatherWidget from './components/ClockWeatherWidget';
+import RealEstateInfo from './components/RealEstateInfo';
+import './components/RealEstateInfo.css';
 
 import './App.css';
 
@@ -370,6 +372,16 @@ function App() {
           >
             📝 任务列表
           </button>
+          <button 
+            className={`sidebar-btn ${activePage === 'realestate' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('realestate');
+              closeMobileMenu();
+            }}
+            aria-label="深圳龙华房产信息页面"
+          >
+            🏠 深圳房产信息
+          </button>
           {/* <button 
             className={`sidebar-btn ${activePage === 'analytics' ? 'active' : ''}`}
             onClick={() => {
@@ -413,6 +425,9 @@ function App() {
       <main className="content">
         {/* 旅游计划页面 */}
         {activePage === 'travel' && <TravelPlan />}
+        
+        {/* 深圳龙华房产信息页面 */}
+        {activePage === 'realestate' && <RealEstateInfo />}
         
         {/* 任务列表页面 */}
         {activePage === 'tasks' && (
