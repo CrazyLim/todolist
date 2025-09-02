@@ -1,0 +1,333 @@
+/* 访客记录统计页面样式 */
+.visit-tracker-container {
+  background-color: white;
+  padding: var(--space-xl);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+  max-width: 1000px;
+  margin: 0 auto;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.visit-tracker-container h2 {
+  text-align: center;
+  color: var(--text-primary);
+  margin-bottom: var(--space-lg);
+  font-size: 1.875rem;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: var(--space-md);
+}
+
+.visit-tracker-container h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 3px;
+  background-color: var(--primary-color);
+  border-radius: 3px;
+}
+
+/* 统计概览样式 */
+.stats-overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-lg);
+  margin-bottom: var(--space-xl);
+}
+
+.stat-card {
+  background-color: var(--bg-secondary);
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  transition: all 0.3s ease;
+  border-top: 4px solid var(--primary-color);
+}
+
+.stat-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+}
+
+.stat-number {
+  color: var(--primary-color);
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: var(--space-xs);
+  line-height: 1;
+}
+
+.stat-label {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.most-visited-page {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  display: block;
+  margin-top: 2px;
+}
+
+/* 日期筛选器样式 */
+.filter-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-lg);
+  padding: var(--space-md);
+  background-color: var(--bg-secondary);
+  border-radius: var(--radius-lg);
+}
+
+.filter-section label {
+  color: var(--text-primary);
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.date-filter {
+  padding: 8px 12px;
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-size: 1rem;
+  background-color: white;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.date-filter:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.clear-btn {
+  padding: 8px 16px;
+  background-color: var(--danger-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.clear-btn:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* 访问记录列表样式 */
+.visits-list-container {
+  margin-bottom: var(--space-xl);
+}
+
+.visits-list-container h3 {
+  color: var(--text-primary);
+  margin-bottom: var(--space-md);
+  font-size: 1.25rem;
+  font-weight: 600;
+  position: relative;
+  padding-bottom: var(--space-sm);
+}
+
+.visits-list-container h3::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background-color: var(--primary-color);
+  border-radius: 2px;
+}
+
+.visits-list {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  background-color: var(--bg-secondary);
+}
+
+.visit-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md);
+  border-bottom: 1px solid var(--border-color);
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.visit-item:hover {
+  background-color: var(--bg-secondary);
+  transform: translateX(5px);
+}
+
+.visit-item:last-child {
+  border-bottom: none;
+}
+
+.visit-time {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 0.875rem;
+  min-width: 150px;
+  text-align: right;
+  padding-right: var(--space-md);
+  border-right: 2px solid var(--primary-color);
+}
+
+.visit-info {
+  flex: 1;
+  padding-left: var(--space-md);
+}
+
+.visit-page {
+  color: var(--text-primary);
+  font-weight: 500;
+  margin-bottom: var(--space-xs);
+}
+
+.visit-user,
+.visit-device {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+  padding: var(--space-xl);
+  background-color: white;
+  border-radius: var(--radius-lg);
+}
+
+/* 页面访问统计图表样式 */
+.page-stats-section {
+  margin-top: var(--space-xl);
+}
+
+.page-stats-section h3 {
+  color: var(--text-primary);
+  margin-bottom: var(--space-md);
+  font-size: 1.25rem;
+  font-weight: 600;
+  position: relative;
+  padding-bottom: var(--space-sm);
+}
+
+.page-stats-section h3::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background-color: var(--primary-color);
+  border-radius: 2px;
+}
+
+.page-stats {
+  background-color: var(--bg-secondary);
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+}
+
+.page-stat-item {
+  margin-bottom: var(--space-md);
+}
+
+.page-stat-item:last-child {
+  margin-bottom: 0;
+}
+
+.page-stat-label {
+  color: var(--text-primary);
+  font-weight: 500;
+  margin-bottom: var(--space-xs);
+  font-size: 0.875rem;
+}
+
+.page-stat-bar {
+  width: 100%;
+  height: 12px;
+  background-color: white;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.page-stat-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(37, 99, 235, 0.3);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .visit-tracker-container {
+    padding: var(--space-md);
+  }
+  
+  .stats-overview {
+    grid-template-columns: 1fr;
+  }
+  
+  .filter-section {
+    flex-direction: column;
+    gap: var(--space-md);
+    align-items: stretch;
+  }
+  
+  .visit-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-sm);
+  }
+  
+  .visit-time {
+    min-width: auto;
+    text-align: left;
+    padding-right: 0;
+    border-right: none;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: var(--space-xs);
+    width: 100%;
+  }
+  
+  .visit-info {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .stat-number {
+    font-size: 2rem;
+  }
+  
+  .visits-list {
+    max-height: 300px;
+  }
+  
+  .page-stat-label {
+    font-size: 0.75rem;
+  }
+}

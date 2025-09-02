@@ -5,6 +5,7 @@ import Game2048 from './components/Game2048';
 import SnakeGame from './components/SnakeGame';
 import ClockWeatherWidget from './components/ClockWeatherWidget';
 import RealEstateInfo from './components/RealEstateInfo';
+import VisitTracker from './components/VisitTracker';
 import './components/RealEstateInfo.css';
 
 import './App.css';
@@ -25,6 +26,34 @@ function App() {
   
   // 页面状态 - 将旅游计划设置为首页默认展示
   const [activePage, setActivePage] = useState('travel');
+  
+  // 上一次访问的页面，用于避免重复记录
+  const [lastVisitedPage, setLastVisitedPage] = useState('travel');
+  
+  // 记录访问信息
+  const recordVisit = (page) => {
+    try {
+      // 获取现有的访问记录
+      const storedVisits = localStorage.getItem('visitRecords');
+      const visits = storedVisits ? JSON.parse(storedVisits) : [];
+      
+      // 创建新的访问记录
+      const newVisit = {
+        timestamp: new Date().toISOString(),
+        page: page,
+        userInfo: isLoggedIn ? (isGuest ? '游客' : email) : '未登录',
+        deviceInfo: navigator.userAgent
+      };
+      
+      // 添加新记录
+      visits.push(newVisit);
+      
+      // 保存回localStorage
+      localStorage.setItem('visitRecords', JSON.stringify(visits));
+    } catch (error) {
+      console.error('记录访问失败:', error);
+    }
+  };
 
   // 游戏状态
   const [selectedGame, setSelectedGame] = useState(null);
@@ -47,6 +76,15 @@ function App() {
       setCompletedTasks(JSON.parse(savedCompletedTasks));
     }
   }, []);
+  
+  // 监听页面变化，记录访问
+  useEffect(() => {
+    // 仅当页面发生变化时记录访问
+    if (activePage !== lastVisitedPage) {
+      recordVisit(activePage);
+      setLastVisitedPage(activePage);
+    }
+  }, [activePage, lastVisitedPage]);
   
   // 保存任务列表和已完成任务到本地存储
   useEffect(() => {
@@ -382,6 +420,16 @@ function App() {
           >
             🏠 深圳房产信息
           </button>
+          <button 
+            className={`sidebar-btn ${activePage === 'visitTracker' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('visitTracker');
+              closeMobileMenu();
+            }}
+            aria-label="访问记录页面"
+          >
+            🔍 访问记录
+          </button>
           {/* <button 
             className={`sidebar-btn ${activePage === 'analytics' ? 'active' : ''}`}
             onClick={() => {
@@ -428,6 +476,9 @@ function App() {
         
         {/* 深圳龙华房产信息页面 */}
         {activePage === 'realestate' && <RealEstateInfo />}
+        
+        {/* 访问记录页面 */}
+        {activePage === 'visitTracker' && <VisitTracker />}
         
         {/* 任务列表页面 */}
         {activePage === 'tasks' && (
