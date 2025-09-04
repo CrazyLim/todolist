@@ -10,6 +10,40 @@
   animation: fadeIn 0.5s ease-in-out;
 }
 
+/* 子页面导航样式 */
+.subpage-navigation {
+  background-color: var(--bg-secondary);
+  padding: var(--space-md);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-lg);
+  text-align: center;
+  border-left: 4px solid var(--primary-color);
+}
+
+.subpage-navigation p {
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-sm) 0;
+  font-size: 0.875rem;
+}
+
+.subpage-link {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-md);
+}
+
+.subpage-link:hover {
+  color: var(--primary-color-dark);
+  background-color: var(--primary-color-light);
+  transform: translateY(-1px);
+}
+
 .real-estate-container h2 {
   text-align: center;
   color: var(--text-primary);

@@ -5,6 +5,8 @@ import Game2048 from './components/Game2048';
 import SnakeGame from './components/SnakeGame';
 import ClockWeatherWidget from './components/ClockWeatherWidget';
 import RealEstateInfo from './components/RealEstateInfo';
+import JiulongxiProperty from './components/JiulongxiProperty';
+import RealEstateComparison from './components/RealEstateComparison';
 import VisitTracker from './components/VisitTracker';
 import './components/RealEstateInfo.css';
 
@@ -421,6 +423,26 @@ function App() {
             🏠 深圳房产信息
           </button>
           <button 
+            className={`sidebar-btn ${activePage === 'realestateComparison' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('realestateComparison');
+              closeMobileMenu();
+            }}
+            aria-label="深圳各区域房产对比分析页面"
+          >
+            🏘️ 区域房产对比
+          </button>
+          <button 
+            className={`sidebar-btn ${activePage === 'jiulongxi' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('jiulongxi');
+              closeMobileMenu();
+            }}
+            aria-label="玖龙玺89平米户型购房建议页面"
+          >
+            🏠 玖龙玺户型详情
+          </button>
+          <button 
             className={`sidebar-btn ${activePage === 'visitTracker' ? 'active' : ''}`}
             onClick={() => {
               setActivePage('visitTracker');
@@ -476,6 +498,12 @@ function App() {
         
         {/* 深圳龙华房产信息页面 */}
         {activePage === 'realestate' && <RealEstateInfo />}
+        
+        {/* 深圳各区域房产对比分析页面 */}
+        {activePage === 'realestateComparison' && <RealEstateComparison />}
+        
+        {/* 玖龙玺89平米户型购房建议页面 */}
+        {activePage === 'jiulongxi' && <JiulongxiProperty />}
         
         {/* 访问记录页面 */}
         {activePage === 'visitTracker' && <VisitTracker />}

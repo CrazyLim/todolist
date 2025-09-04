@@ -1,0 +1,521 @@
+/* 旅游计划页面样式 */
+.travel-plan-container {
+  background-color: white;
+  padding: var(--space-xl);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-md);
+  max-width: 1200px;
+  margin: 0 auto;
+  animation: fadeIn 0.5s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.travel-plan-decoration {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(135deg, rgba(79, 70, 229, 0.05), rgba(79, 70, 229, 0.1));
+  border-radius: 50%;
+  transform: translate(30%, -30%);
+  z-index: 0;
+}
+
+.travel-plan-title {
+  text-align: center;
+  color: var(--text-primary);
+  margin-bottom: var(--space-lg);
+  font-size: 1.875rem;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: var(--space-md);
+  z-index: 1;
+}
+
+.travel-plan-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 3px;
+  background-color: var(--primary-color);
+  border-radius: 3px;
+}
+
+.travel-theme {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.theme-text {
+  color: var(--text-secondary);
+  font-size: 1.125rem;
+  line-height: 1.6;
+  padding: 0 var(--space-lg);
+  font-style: italic;
+}
+
+/* 行程总览样式 */
+.full-itinerary-overview {
+  margin-bottom: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.itinerary-overview-title {
+  text-align: center;
+  color: var(--primary-color);
+  margin-bottom: var(--space-lg);
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.itinerary-days-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-md);
+  justify-items: center;
+}
+
+.itinerary-day-summary {
+  background-color: var(--bg-secondary);
+  padding: var(--space-md);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  text-align: center;
+  transition: all 0.3s ease;
+  width: 100%;
+  max-width: 220px;
+}
+
+.itinerary-day-summary:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary-color);
+}
+
+.day-number {
+  font-weight: 700;
+  color: var(--primary-color);
+  font-size: 1.25rem;
+  margin-bottom: var(--space-xs);
+}
+
+.day-title-small {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.day-route {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+}
+
+/* 天数导航样式 */
+.day-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+
+.day-btn {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.875rem;
+  color: var(--text-primary);
+}
+
+.day-btn:hover {
+  background-color: var(--primary-color-light);
+  border-color: var(--primary-color);
+}
+
+.day-btn.active {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+/* 当天行程详情样式 */
+.day-details {
+  background-color: var(--bg-secondary);
+  padding: var(--space-lg);
+  border-radius: var(--radius-xl);
+  margin-bottom: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.day-header {
+  margin-bottom: var(--space-lg);
+}
+
+.day-title {
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* 基本信息样式 */
+.trip-info-flex {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+
+.info-card {
+  background-color: white;
+  padding: var(--space-md);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+}
+
+.info-card.inline {
+  text-align: center;
+}
+
+.info-label {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  margin-bottom: var(--space-xs);
+}
+
+.info-value {
+  color: var(--text-primary);
+  font-weight: 600;
+  margin: 0;
+}
+
+/* 各部分通用样式 */
+.transportation-section,
+.accommodation-section,
+.dining-section,
+.schedule-section {
+  margin-bottom: var(--space-lg);
+  background-color: white;
+  padding: var(--space-md);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+}
+
+.section-title {
+  color: var(--text-primary);
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: var(--space-md);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.transport-icon,
+.accommodation-icon,
+.dining-icon {
+  font-size: 1.25rem;
+}
+
+/* 交通详情样式 */
+.transportation-details,
+.accommodation-details,
+.dining-details {
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.transport-text,
+.dining-text {
+  margin: 0;
+}
+
+.accommodation-name {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+}
+
+.accommodation-features {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+/* 行程时间轴样式 */
+.schedule-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.schedule-item {
+  display: flex;
+  gap: var(--space-md);
+  padding-left: var(--space-md);
+  border-left: 2px solid var(--primary-color);
+}
+
+.schedule-time {
+  flex-shrink: 0;
+  width: 100px;
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.schedule-activity {
+  flex-grow: 1;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.activity-dot {
+  color: var(--primary-color);
+  margin-right: var(--space-xs);
+}
+
+/* 地图链接样式 */
+.map-link {
+  display: inline-block;
+  background-color: var(--primary-color);
+  color: white;
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  margin-top: var(--space-md);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.map-link:hover {
+  background-color: var(--primary-color-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* 行程总览样式 */
+.trip-overview {
+  margin-bottom: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.overview-title {
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--space-lg);
+  text-align: center;
+}
+
+.overview-cities {
+  text-align: center;
+}
+
+.city-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-md);
+  margin-bottom: var(--space-md);
+}
+
+.city-tag {
+  background-color: var(--bg-secondary);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.city-arrow {
+  color: var(--text-secondary);
+  font-size: 1.25rem;
+}
+
+.overview-description {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+/* 优化要点样式 */
+.optimization-section {
+  margin-bottom: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.optimization-title {
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--space-lg);
+  text-align: center;
+}
+
+.optimization-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-lg);
+}
+
+.optimization-card {
+  background-color: white;
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+  border-top: 4px solid var(--secondary-color);
+}
+
+.optimization-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary-color);
+}
+
+.optimization-point-title {
+  color: var(--text-primary);
+  margin-bottom: var(--space-md);
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.optimization-point-desc {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+  text-align: center;
+}
+
+/* 特别提示样式 */
+.tips-section {
+  background-color: rgba(239, 68, 68, 0.05);
+  padding: var(--space-lg);
+  border-radius: var(--radius-xl);
+  border: 1px solid var(--border-color);
+  position: relative;
+  z-index: 1;
+}
+
+.tips-title {
+  color: var(--text-primary);
+  margin-bottom: var(--space-lg);
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.tips-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.tip-item {
+  display: flex;
+  gap: var(--space-md);
+  align-items: flex-start;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.tip-icon {
+  flex-shrink: 0;
+  font-size: 1.25rem;
+}
+
+.tip-text {
+  margin: 0;
+  flex-grow: 1;
+}
+
+/* 结论部分样式 */
+.conclusion {
+  background-color: rgba(79, 70, 229, 0.05);
+  padding: var(--space-lg);
+  border-radius: var(--radius-lg);
+  border-left: 4px solid var(--secondary-color);
+  margin-top: var(--space-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.conclusion p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+  text-align: center;
+  font-style: italic;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .travel-plan-container {
+    padding: var(--space-md);
+  }
+  
+  .travel-plan-title {
+    font-size: 1.5rem;
+  }
+  
+  .theme-text {
+    font-size: 1rem;
+  }
+  
+  .itinerary-days-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .day-navigation {
+    flex-direction: column;
+  }
+  
+  .trip-info-flex {
+    grid-template-columns: 1fr;
+  }
+  
+  .optimization-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .schedule-item {
+    flex-direction: column;
+  }
+  
+  .schedule-time {
+    width: auto;
+  }
+  
+  .city-tags {
+    flex-direction: column;
+  }
+  
+  .city-arrow {
+    transform: rotate(90deg);
+  }
+}

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './TravelPlan.css';
 
 function TravelPlan() {
   // 状态管理：当前显示的天数

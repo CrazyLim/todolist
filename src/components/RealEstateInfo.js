@@ -5,6 +5,20 @@ function RealEstateInfo() {
     <div className="real-estate-container">
       <h2>🏠 深圳龙华红山片区房产信息 (2025年)</h2>
       
+      {/* 子页面导航 */}
+      <div className="subpage-navigation">
+        <p>查看更多深圳房产信息：</p>
+        <a href="#" className="subpage-link" onClick={(e) => {
+          e.preventDefault();
+          // 切换到房产对比页面
+          window.location.hash = '#comparison';
+          const event = new CustomEvent('navigateToPage', { detail: { page: 'realestateComparison' } });
+          window.dispatchEvent(event);
+        }}>
+          🏘️ 深圳各区域房产对比分析
+        </a>
+      </div>
+      
       <p className="intro-text">
         深圳龙华红山片区是近年来发展较快的区域，配套日益完善。以下是2025年该区域购房和租房的最新费用信息，希望能帮您做参考。
       </p>
