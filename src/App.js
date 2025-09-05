@@ -8,6 +8,8 @@ import RealEstateInfo from './components/RealEstateInfo';
 import JiulongxiProperty from './components/JiulongxiProperty';
 import RealEstateComparison from './components/RealEstateComparison';
 import VisitTracker from './components/VisitTracker';
+import AIWardrobe from './components/AIWardrobe';
+import ApiTest from './components/ApiTest';
 import './components/RealEstateInfo.css';
 
 import './App.css';
@@ -452,6 +454,26 @@ function App() {
           >
             🔍 访问记录
           </button>
+          <button 
+            className={`sidebar-btn ${activePage === 'aiWardrobe' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('aiWardrobe');
+              closeMobileMenu();
+            }}
+            aria-label="AI衣橱页面"
+          >
+            👗 AI衣橱
+          </button>
+          <button
+            className={`sidebar-btn ${activePage === 'apiTest' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('apiTest');
+              closeMobileMenu();
+            }}
+            aria-label="API测试"
+          >
+            📡 跨域测试
+          </button>
           {/* <button 
             className={`sidebar-btn ${activePage === 'analytics' ? 'active' : ''}`}
             onClick={() => {
@@ -507,6 +529,12 @@ function App() {
         
         {/* 访问记录页面 */}
         {activePage === 'visitTracker' && <VisitTracker />}
+        
+        {/* AI衣橱页面 */}
+        {activePage === 'aiWardrobe' && <AIWardrobe />}
+        
+        {/* API测试页面 */}
+        {activePage === 'apiTest' && <ApiTest />}
         
         {/* 任务列表页面 */}
         {activePage === 'tasks' && (
