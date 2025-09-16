@@ -10,6 +10,7 @@ import RealEstateComparison from './components/RealEstateComparison';
 import VisitTracker from './components/VisitTracker';
 import AIWardrobe from './components/AIWardrobe';
 import ApiTest from './components/ApiTest';
+import FocusGuide from './components/FocusGuide';
 import './components/RealEstateInfo.css';
 
 import './App.css';
@@ -452,7 +453,17 @@ function App() {
             }}
             aria-label="访问记录页面"
           >
-            🔍 访问记录
+            📊 访问记录
+          </button>
+          <button 
+            className={`sidebar-btn ${activePage === 'focus' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('focus');
+              closeMobileMenu();
+            }}
+            aria-label="专注力说明页面"
+          >
+            🧘 专注力提升
           </button>
           <button 
             className={`sidebar-btn ${activePage === 'aiWardrobe' ? 'active' : ''}`}
@@ -535,6 +546,9 @@ function App() {
         
         {/* API测试页面 */}
         {activePage === 'apiTest' && <ApiTest />}
+        
+        {/* 专注力说明页面 */}
+        {activePage === 'focus' && <FocusGuide />}
         
         {/* 任务列表页面 */}
         {activePage === 'tasks' && (

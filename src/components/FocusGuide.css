@@ -1,0 +1,279 @@
+.focus-guide-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.focus-guide-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.focus-guide-header h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.focus-guide-subtitle {
+  font-size: 1.2rem;
+  color: #666;
+  font-style: italic;
+}
+
+.focus-guide-section {
+  margin-bottom: 3.5rem;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.section-header {
+  margin-bottom: 2rem;
+}
+
+.section-header h2 {
+  font-size: 1.8rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.section-divider {
+  height: 4px;
+  background: linear-gradient(90deg, #3498db, #8e44ad);
+  border-radius: 2px;
+  margin-top: 0.5rem;
+}
+
+.theory-card {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #3498db;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.theory-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.theory-card h3 {
+  font-size: 1.3rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.theory-content p {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.preparation-section {
+  background-color: #e8f4fd;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.preparation-section h3 {
+  color: #2980b9;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.preparation-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.preparation-list li {
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.preparation-list li:before {
+  content: "•";
+  color: #3498db;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+.stage-card {
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 2.5rem;
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+}
+
+.stage-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1.5rem;
+}
+
+.stage-header h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.4rem;
+}
+
+.stage-goal {
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.stage-content {
+  padding: 1.5rem;
+}
+
+.stage-content p {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.daily-practice h4 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.practice-item {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+  border-left: 3px solid #667eea;
+}
+
+.practice-title {
+  font-weight: bold;
+  color: #34495e;
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+}
+
+.practice-item p {
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.practice-item ul {
+  margin-top: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.practice-item ul li {
+  margin-bottom: 0.3rem;
+}
+
+.beyond-section {
+  margin-bottom: 2rem;
+}
+
+.beyond-section p {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.beyond-item {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid #e0e0e0;
+  transition: transform 0.3s ease;
+}
+
+.beyond-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.beyond-item h3 {
+  color: #27ae60;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.conclusion-section {
+  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+  border-radius: 10px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.conclusion-section h3 {
+  color: #e74c3c;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.conclusion-section p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #5a4a41;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .focus-guide-container {
+    padding: 1rem;
+  }
+  
+  .focus-guide-header h1 {
+    font-size: 1.8rem;
+  }
+  
+  .focus-guide-subtitle {
+    font-size: 1rem;
+  }
+  
+  .section-header h2 {
+    font-size: 1.5rem;
+  }
+  
+  .focus-guide-section {
+    padding: 1.2rem;
+  }
+  
+  .theory-card, .stage-card, .beyond-item {
+    padding: 1rem;
+  }
+  
+  .stage-header h3 {
+    font-size: 1.2rem;
+  }
+  
+  .conclusion-section {
+    padding: 1.5rem 1rem;
+  }
+}
+
+/* 动画效果 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.focus-guide-section {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
+.focus-guide-section:nth-child(1) { animation-delay: 0.1s; }
+.focus-guide-section:nth-child(2) { animation-delay: 0.3s; }
+.focus-guide-section:nth-child(3) { animation-delay: 0.5s; }
