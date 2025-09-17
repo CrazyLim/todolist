@@ -11,6 +11,7 @@ import VisitTracker from './components/VisitTracker';
 import AIWardrobe from './components/AIWardrobe';
 import ApiTest from './components/ApiTest';
 import FocusGuide from './components/FocusGuide';
+import OrderList from './components/OrderList';
 import './components/RealEstateInfo.css';
 
 import './App.css';
@@ -465,6 +466,17 @@ function App() {
           >
             🧘 专注力提升
           </button>
+          
+          <button
+            className={`sidebar-btn ${activePage === 'orders' ? 'active' : ''}`}
+            onClick={() => {
+              setActivePage('orders');
+              closeMobileMenu();
+            }}
+            aria-label="订单管理页面"
+          >
+            📦 订单管理
+          </button>
           <button 
             className={`sidebar-btn ${activePage === 'aiWardrobe' ? 'active' : ''}`}
             onClick={() => {
@@ -548,7 +560,8 @@ function App() {
         {activePage === 'apiTest' && <ApiTest />}
         
         {/* 专注力说明页面 */}
-        {activePage === 'focus' && <FocusGuide />}
+          {activePage === 'focus-guide' && <FocusGuide />}
+          {activePage === 'orders' && <OrderList />}
         
         {/* 任务列表页面 */}
         {activePage === 'tasks' && (
